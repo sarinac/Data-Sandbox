@@ -10,7 +10,7 @@ Since I recently visited Manhattan, NYC for the first time and stayed in a share
 
 ![NYC AirBnB Listings](./images/image-1.png)
 
-![NYC AirBnB Listings 2](./images/NYC_map-1.png)
+![NYC AirBnB Listings 2](./images/NYC_map.png)
 
 Manhattan as the busiest neighbourhood group, followed by Brooklyn, Queens, Bronx, and Staten Island.
 
@@ -20,7 +20,7 @@ Manhattan as the busiest neighbourhood group, followed by Brooklyn, Queens, Bron
 
 Obviously, Manhattan is the most expensive because it has the most tourist activity and companies. 
 
-![NYC AirBnB Prices](./images/NYC_map_prices-2.png)
+![NYC AirBnB Prices](./images/NYC_map_prices.png)
 
 Within Manhattan, places south of Central Park are more expensive.
 
