@@ -1,0 +1,838 @@
+week,winner_team,winner_score,winner_rank,loser_team,loser_score,loser_rank,winner_conference,loser_conference,winner_lat,winner_long,loser_lat,loser_long
+1,Florida,24,8.0,Miami (FL),20,,Southeastern,Atlantic Coast,27.664827399999997,-81.5157535,25.7616798,-80.1917902
+1,Hawaii,45,,Arizona,38,,Mountain West,Pac-12,19.8967662,-155.58278180000005,34.048928100000005,-111.0937311
+1,Buffalo,38,,Robert Morris,10,,Mid-American,,42.88644679999999,-78.8783689,,
+1,Cincinnati,24,,UCLA,14,,American Athletic Conference,Pac-12,39.103118200000004,-84.5120196,34.068921,-118.4451811
+1,Bowling Green,46,,Morgan State,3,,Mid-American,,41.3797788,-83.6300826,,
+1,Connecticut,24,,Wagner,21,,American Athletic Conference,,41.60322070000001,-73.087749,,
+1,Charlotte,49,,Gardner-Webb,28,,Conference USA,,35.2270869,-80.8431267,,
+1,Central Ark.,35,,Western Kentucky,28,,,Conference USA,,,36.9853543,-86.456138
+1,UCF,62,17.0,Florida A&M,0,,American Athletic Conference,,28.602427399999996,-81.2000599,,
+1,Tulane,42,,Florida International,14,,American Athletic Conference,Conference USA,29.940728200000002,-90.1203167,25.756127499999998,-80.3768786
+1,UAB,24,,Alabama State,19,,Conference USA,,33.5019893,-86.8064433,,
+1,Central Michigan,38,,Albany,21,,Mid-American,,43.5819086,-84.77563640000002,,
+1,Clemson,52,1.0,Georgia Tech,14,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,33.7756178,-84.39628499999998
+1,Texas A&M,41,12.0,Texas State,7,,Southeastern,Sun Belt,30.6090918,-96.33371240000001,29.888410999999998,-97.938351
+1,Minnesota,28,,South Dakota State,21,,Big Ten,,46.729553,-94.6858998,,
+1,Arizona State,30,,Kent State,7,,Pac-12,Mid-American,34.048928100000005,-111.0937311,41.145559399999996,-81.33928829999998
+1,San Jose State,35,,Northern Colo.,18,,Mountain West,,37.3351874,-121.8810715,,
+1,Utah,30,14.0,Brigham Young,12,,Pac-12,Independents(FBS),39.32098010000001,-111.0937311,40.2518435,-111.6493156
+1,Army,14,,Rice,7,,Independents(FBS),Conference USA,37.1033072,-95.5678528,29.7173941,-95.4018312
+1,Michigan State,28,18.0,Tulsa,7,,Big Ten,American Athletic Conference,42.701848,-84.4821719,36.1539816,-95.992775
+1,Wisconsin,49,19.0,South Florida,0,,Big Ten,American Athletic Conference,43.78443970000001,-88.7878678,27.664827399999997,-81.5157535
+1,Rutgers,48,,Massachusetts,21,,Big Ten,Independents(FBS),40.500818599999995,-74.44739910000001,42.4072107,-71.3824374
+1,Wake Forest,38,,Utah State,35,,Atlantic Coast,Mountain West,36.1340985,-80.2778951,41.745160999999996,-111.8097425
+1,Nevada,34,,Purdue,31,,Mountain West,Big Ten,38.8026097,-116.419389,40.4237054,-86.92119459999998
+1,Colorado,52,,Colorado State,31,,Pac-12,Mountain West,39.55005070000001,-105.78206740000002,39.55005070000001,-105.78206740000002
+1,Oklahoma State,52,,Oregon State,36,,Big 12,Pac-12,36.1270236,-97.0737222,44.5637806,-123.2794443
+1,North Carolina State,34,,East Carolina,6,,Atlantic Coast,American Athletic Conference,35.7846633,-78.6820946,35.6055108,-77.3645653
+1,Kansas,24,,Indiana State,17,,Big 12,,39.011902,-98.4842465,,
+1,Memphis,15,,Ole Miss,10,,American Athletic Conference,Southeastern,35.1495343,-90.0489801,34.364732399999994,-89.538443
+1,Mississippi State,38,,Louisiana-Lafayette,28,,Southeastern,Sun Belt,33.455174199999995,-88.79437659999998,30.211440399999997,-92.02041209999999
+1,Indiana,34,,Ball State,24,,Big Ten,Mid-American,40.2671941,-86.1349019,40.2041356,-85.4058996
+1,Iowa State,29,21.0,UNI,26,,Big 12,,42.0266187,-93.64646540000001,,
+1,Boise State,36,,Florida State,31,,Mountain West,Atlantic Coast,43.60269520000001,-116.2014604,30.4418778,-84.29848890000002
+1,Ohio State,45,5.0,Florida Atlantic,21,,Big Ten,Conference USA,40.006836299999996,-83.03062220000002,26.374987599999997,-80.10106329999998
+1,Maryland,79,,Howard,0,,Big Ten,,39.0457549,-76.64127119999998,,
+1,Nebraska,35,24.0,South Alabama,21,,Big Ten,Sun Belt,41.4925374,-99.9018131,30.6959406,-88.184236
+1,Illinois,42,,Akron,3,,Big Ten,Mid-American,40.6331249,-89.3985283,41.08144470000001,-81.51900529999998
+1,Kentucky,38,,Toledo,24,,Southeastern,Mid-American,37.83933320000001,-84.2700179,41.6528052,-83.53786740000002
+1,Ohio,41,,Rhode Island,20,,Mid-American,,40.4172871,-82.90712300000001,,
+1,West Virginia,20,,James Madison,13,,Big 12,,38.59762620000001,-80.4549026,,
+1,Temple,56,,Bucknell,12,,American Athletic Conference,,37.0421218,-95.6273972,,
+1,Washington,47,13.0,Eastern Wash.,14,,Pac-12,,47.751074100000004,-120.7401385,,
+1,Eastern Michigan,30,,Coastal Carolina,23,,Mid-American,Sun Belt,42.2506803,-83.624089,33.7965964,-79.01336119999998
+1,North Carolina,24,,South Carolina,20,,Atlantic Coast,Southeastern,35.75957310000001,-79.01929969999998,33.836081,-81.1637245
+1,Navy,45,,Holy Cross,7,,American Athletic Conference,,37.22462279999999,-95.70705240000001,,
+1,Alabama,42,2.0,Duke,3,,Southeastern,Atlantic Coast,32.3182314,-86.902298,36.0014258,-78.9382286
+1,Penn State,79,15.0,Idaho,7,,Big Ten,,40.7982133,-77.85990840000002,,
+1,Georgia State,38,,Tennessee,30,,Sun Belt,Southeastern,33.753068,-84.38528190000002,35.517491299999996,-86.5804473
+1,Air Force,48,,Colgate,7,,Mountain West,,37.0955676,-94.4778033,,
+1,Appalachian State,42,,ETSU,7,,Sun Belt,,36.2134842,-81.6841448,,
+1,Arkansas,20,,Portland State,13,,Southeastern,,35.20105,-91.83183340000001,,
+1,Boston College,35,,Virginia Tech,28,,Atlantic Coast,Atlantic Coast,42.3355488,-71.16849450000002,37.22838429999999,-80.42341669999998
+1,Stanford,17,25.0,Northwestern,7,,Pac-12,Big Ten,37.4274745,-122.169719,42.0564594,-87.67526699999998
+1,Texas Tech,45,,Montana State,10,,Big 12,,33.584259100000004,-101.8782822,,
+1,UTSA,35,,UIW,7,,Conference USA,,29.5829744,-98.6197293,,
+1,Troy,43,,Campbell,14,,Sun Belt,,42.6064095,-83.1497751,,
+1,New Mexico,39,,Sam Houston State,31,,Mountain West,,34.5199402,-105.87009009999998,,
+1,Syracuse,24,22.0,Liberty,0,,Atlantic Coast,Independents(FBS),43.0481221,-76.14742439999998,37.1556278,-95.5947005
+1,Marshall,56,,VMI,17,,Conference USA,,36.056901,-96.005218,,
+1,California,27,,UC Davis,13,,Pac-12,,36.778261,-119.4179324,,
+1,Northern Illinois,24,,Illinois State,10,,Mid-American,,41.934233,-88.774069,,
+1,Old Dominion,24,,Norfolk State,21,,Conference USA,,37.370863299999996,-95.26379140000002,,
+1,Western Michigan,48,,Monmouth,13,,Mid-American,,42.2837336,-85.6102507,,
+1,Kansas State,49,,Nicholls State,14,,Big 12,,39.1974437,-96.58472490000001,,
+1,Southern Miss,38,,Alcorn State,10,,Conference USA,,31.330011499999998,-89.3340423,,
+1,SMU,37,,Arkansas State,30,,American Athletic Conference,Sun Belt,32.8412178,-96.7845175,35.20105,-91.83183340000001
+1,Baylor,56,,SFA,17,,Big 12,,31.5497007,-97.1143046,,
+1,Virginia,30,,Pittsburgh,14,,Atlantic Coast,Atlantic Coast,37.4315734,-78.65689420000002,40.4443533,-79.960835
+1,Wyoming,37,,Missouri,31,,Mountain West,Southeastern,43.075967799999994,-107.29028390000002,37.9642529,-91.83183340000001
+1,Georgia,30,3.0,Vanderbilt,6,,Southeastern,Southeastern,32.1656221,-82.9000751,36.1447034,-86.8026551
+1,LSU,55,6.0,Georgia Southern,3,,Southeastern,Sun Belt,30.413257899999998,-91.1800023,32.42054890000001,-81.78653469999998
+1,Michigan,40,7.0,Middle Tennessee,21,,Big Ten,Conference USA,44.3148443,-85.60236429999998,35.8486105,-86.3648813
+1,North Texas,51,,Abilene Christian,31,,Conference USA,,33.207488,-97.1525862,,
+1,Auburn,27,16.0,Oregon,21,11.0,Southeastern,Pac-12,32.6098566,-85.48078249999998,43.8041334,-120.55420120000001
+1,Iowa,38,20.0,Miami (OH),14,,Big Ten,Mid-American,41.8780025,-93.097702,39.5105334,-84.73087679999998
+1,TCU,39,,Ark.-Pine Bluff,7,,Big 12,,32.7095936,-97.36356020000001,,
+1,Louisiana-Monroe,31,,Grambling,9,,Sun Belt,,32.528282,-92.073415,,
+1,Texas,45,10.0,Louisiana Tech,14,,Big 12,Conference USA,31.968598800000002,-99.9018131,32.5282644,-92.6499298
+1,UTEP,36,,Houston Baptist,34,,Conference USA,,31.7709368,-106.50464050000001,,
+1,San Diego State,6,,Weber State,0,,Mountain West,,32.77572170000001,-117.0718893,,
+1,Washington State,58,23.0,New Mexico State,7,,Pac-12,Independents(FBS),47.751074100000004,-120.7401385,32.2787745,-106.7479059
+1,UNLV,56,,Southern Utah,23,,Mountain West,,36.1085197,-115.1431709,,
+1,USC,31,,Fresno State,23,,Pac-12,Mountain West,34.0223519,-118.285117,36.8124451,-119.7457805
+1,Oklahoma,49,4.0,Houston,31,,Big 12,American Athletic Conference,35.007751899999995,-97.092877,29.7604267,-95.36980279999999
+1,Notre Dame,35,9.0,Louisville,17,,Independents(FBS),Atlantic Coast,41.7055716,-86.2353388,38.252664700000004,-85.7584557
+2,Virginia,52,,William & Mary,17,,Atlantic Coast,,37.4315734,-78.65689420000002,,
+2,Wake Forest,41,,Rice,21,,Atlantic Coast,Conference USA,36.1340985,-80.2778951,29.7173941,-95.4018312
+2,Boise State,14,24.0,Marshall,7,,Mountain West,Conference USA,43.60269520000001,-116.2014604,36.056901,-96.005218
+2,Arizona State,19,,Sacramento State,7,,Pac-12,,34.048928100000005,-111.0937311,,
+2,Pittsburgh,20,,Ohio,10,,Atlantic Coast,Mid-American,40.4443533,-79.960835,40.4172871,-82.90712300000001
+2,Virginia Tech,31,,Old Dominion,17,,Atlantic Coast,Conference USA,37.22838429999999,-80.42341669999998,37.370863299999996,-95.26379140000002
+2,Iowa,30,20.0,Rutgers,0,,Big Ten,Big Ten,41.8780025,-93.097702,40.500818599999995,-74.44739910000001
+2,Kansas State,52,,Bowling Green,0,,Big 12,Mid-American,39.1974437,-96.58472490000001,41.3797788,-83.6300826
+2,Missouri,38,,West Virginia,7,,Southeastern,Big 12,37.9642529,-91.83183340000001,38.59762620000001,-80.4549026
+2,Maryland,63,,Syracuse,20,21.0,Big Ten,Atlantic Coast,39.0457549,-76.64127119999998,43.0481221,-76.14742439999998
+2,Purdue,42,,Vanderbilt,24,,Big Ten,Southeastern,40.4237054,-86.92119459999998,36.1447034,-86.8026551
+2,UAB,31,,Akron,20,,Conference USA,Mid-American,33.5019893,-86.8064433,41.08144470000001,-81.51900529999998
+2,Kent State,26,,Kennesaw State,23,,Mid-American,,41.145559399999996,-81.33928829999998,,
+2,South Carolina,72,,Charleston So.,10,,Southeastern,,33.836081,-81.1637245,,
+2,Ohio State,42,5.0,Cincinnati,0,,Big Ten,American Athletic Conference,40.006836299999996,-83.03062220000002,39.103118200000004,-84.5120196
+2,Michigan,24,7.0,Army,21,,Big Ten,Independents(FBS),44.3148443,-85.60236429999998,37.1033072,-95.5678528
+2,Memphis,55,,Southern Univ.,24,,American Athletic Conference,,35.1495343,-90.0489801,,
+2,North Carolina State,41,,Western Caro.,0,,Atlantic Coast,,35.7846633,-78.6820946,,
+2,Utah,35,13.0,Northern Illinois,17,,Pac-12,Mid-American,39.32098010000001,-111.0937311,41.934233,-88.774069
+2,Georgia Tech,14,,South Florida,10,,Atlantic Coast,American Athletic Conference,33.7756178,-84.39628499999998,27.664827399999997,-81.5157535
+2,Ball State,57,,Fordham,29,,Mid-American,,40.2041356,-85.4058996,,
+2,Miami (OH),48,,Tennessee Tech,17,,Mid-American,,39.5105334,-84.73087679999998,,
+2,Mississippi State,38,,Southern Miss,15,,Southeastern,Conference USA,33.455174199999995,-88.79437659999998,31.330011499999998,-89.3340423
+2,Appalachian State,56,,Charlotte,41,,Sun Belt,Conference USA,36.2134842,-81.6841448,35.2270869,-80.8431267
+2,Clemson,24,1.0,Texas A&M,10,12.0,Atlantic Coast,Southeastern,34.673843700000006,-82.83686540000002,30.6090918,-96.33371240000001
+2,Boston College,45,,Richmond,13,,Atlantic Coast,,42.3355488,-71.16849450000002,,
+2,Indiana,52,,Eastern Illinois,0,,Big Ten,,40.2671941,-86.1349019,,
+2,Southern Illinois,45,,Massachusetts,20,,,Independents(FBS),,,42.4072107,-71.3824374
+2,Colorado,34,,Nebraska,31,25.0,Pac-12,Big Ten,39.55005070000001,-105.78206740000002,41.4925374,-99.9018131
+2,Wisconsin,61,17.0,Central Michigan,0,,Big Ten,Mid-American,43.78443970000001,-88.7878678,43.5819086,-84.77563640000002
+2,Louisiana Tech,20,,Grambling,14,,Conference USA,,32.5282644,-92.6499298,,
+2,Illinois,31,,Connecticut,23,,Big Ten,American Athletic Conference,40.6331249,-89.3985283,41.60322070000001,-73.087749
+2,Baylor,63,,UTSA,14,,Big 12,Conference USA,31.5497007,-97.1143046,29.5829744,-98.6197293
+2,Colorado State,38,,Western Illinois,13,,Mountain West,,39.55005070000001,-105.78206740000002,,
+2,Georgia,63,3.0,Murray State,17,,Southeastern,,32.1656221,-82.9000751,,
+2,Alabama,62,2.0,New Mexico State,10,,Southeastern,Independents(FBS),32.3182314,-86.902298,32.2787745,-106.7479059
+2,San Diego State,23,,UCLA,14,,Mountain West,Pac-12,32.77572170000001,-117.0718893,34.068921,-118.4451811
+2,Washington State,59,22.0,Northern Colo.,17,,Pac-12,,47.751074100000004,-120.7401385,,
+2,Florida State,45,,Louisiana-Monroe,44,,Atlantic Coast,Sun Belt,30.4418778,-84.29848890000002,32.528282,-92.073415
+2,Georgia Southern,26,,Maine,18,,Sun Belt,,32.42054890000001,-81.78653469999998,,
+2,East Carolina,48,,Gardner-Webb,9,,American Athletic Conference,,35.6055108,-77.3645653,,
+2,Duke,45,,N.C. A&T,13,,Atlantic Coast,,36.0014258,-78.9382286,,
+2,Coastal Carolina,12,,Kansas,7,,Sun Belt,Big 12,33.7965964,-79.01336119999998,39.011902,-98.4842465
+2,Louisville,42,,Eastern Kentucky,0,,Atlantic Coast,,38.252664700000004,-85.7584557,,
+2,Western Kentucky,20,,Florida International,14,,Conference USA,Conference USA,36.9853543,-86.456138,25.756127499999998,-80.3768786
+2,Wyoming,23,,Texas State,14,,Mountain West,Sun Belt,43.075967799999994,-107.29028390000002,29.888410999999998,-97.938351
+2,Oklahoma State,56,,McNeese,14,,Big 12,,36.1270236,-97.0737222,,
+2,UCF,48,18.0,Florida Atlantic,14,,American Athletic Conference,Conference USA,28.602427399999996,-81.2000599,26.374987599999997,-80.10106329999998
+2,Georgia State,48,,Furman,42,,Sun Belt,,33.753068,-84.38528190000002,,
+2,South Alabama,37,,Jackson State,14,,Sun Belt,,30.6959406,-88.184236,,
+2,Brigham Young,29,,Tennessee,26,,Independents(FBS),Southeastern,40.2518435,-111.6493156,35.517491299999996,-86.5804473
+2,SMU,49,,North Texas,27,,American Athletic Conference,Conference USA,32.8412178,-96.7845175,33.207488,-97.1525862
+2,Middle Tennessee,45,,Tennessee State,26,,Conference USA,,35.8486105,-86.3648813,,
+2,Oklahoma,70,4.0,South Dakota,14,,Big 12,,35.007751899999995,-97.092877,,
+2,Ole Miss,31,,Arkansas,17,,Southeastern,Southeastern,34.364732399999994,-89.538443,35.20105,-91.83183340000001
+2,Kentucky,38,,Eastern Michigan,17,,Southeastern,Mid-American,37.83933320000001,-84.2700179,42.2506803,-83.624089
+2,Utah State,62,,Stony Brook,7,,Mountain West,,41.745160999999996,-111.8097425,,
+2,Louisiana-Lafayette,35,,Liberty,14,,Sun Belt,Independents(FBS),30.211440399999997,-92.02041209999999,37.1556278,-95.5947005
+2,LSU,45,6.0,Texas,38,9.0,Southeastern,Big 12,30.413257899999998,-91.1800023,31.968598800000002,-99.9018131
+2,Michigan State,51,19.0,Western Michigan,17,,Big Ten,Mid-American,42.701848,-84.4821719,42.2837336,-85.6102507
+2,Oregon,77,16.0,Nevada,6,,Pac-12,Mountain West,43.8041334,-120.55420120000001,38.8026097,-116.419389
+2,Penn State,45,15.0,Buffalo,13,,Big Ten,Mid-American,40.7982133,-77.85990840000002,42.88644679999999,-78.8783689
+2,Auburn,24,10.0,Tulane,6,,Southeastern,American Athletic Conference,32.6098566,-85.48078249999998,29.940728200000002,-90.1203167
+2,Florida,45,11.0,UT Martin,0,,Southeastern,,27.664827399999997,-81.5157535,,
+2,Texas Tech,38,,UTEP,3,,Big 12,Conference USA,33.584259100000004,-101.8782822,31.7709368,-106.50464050000001
+2,Houston,37,,Prairie View A&M,17,,American Athletic Conference,,29.7604267,-95.36980279999999,,
+2,North Carolina,28,,Miami (FL),25,,Atlantic Coast,Atlantic Coast,35.75957310000001,-79.01929969999998,25.7616798,-80.1917902
+2,Tulsa,34,,San Jose State,16,,American Athletic Conference,Mountain West,36.1539816,-95.992775,37.3351874,-121.8810715
+2,Arkansas State,43,,UNLV,17,,Sun Belt,Mountain West,35.20105,-91.83183340000001,36.1085197,-115.1431709
+2,Minnesota,38,,Fresno State,35,,Big Ten,Mountain West,46.729553,-94.6858998,36.8124451,-119.7457805
+2,USC,45,,Stanford,20,23.0,Pac-12,Pac-12,34.0223519,-118.285117,37.4274745,-122.169719
+2,California,20,,Washington,19,14.0,Pac-12,Pac-12,36.778261,-119.4179324,47.751074100000004,-120.7401385
+2,Arizona,65,,Northern Ariz.,41,,Pac-12,,34.048928100000005,-111.0937311,,
+2,Hawaii,31,,Oregon State,28,,Mountain West,Pac-12,19.8967662,-155.58278180000005,44.5637806,-123.2794443
+3,Wake Forest,24,,North Carolina,18,,Atlantic Coast,Atlantic Coast,36.1340985,-80.2778951,35.75957310000001,-79.01929969999998
+3,Kansas,48,,Boston College,24,,Big 12,Atlantic Coast,39.011902,-98.4842465,42.3355488,-71.16849450000002
+3,Washington State,31,20.0,Houston,24,,Pac-12,American Athletic Conference,47.751074100000004,-120.7401385,29.7604267,-95.36980279999999
+3,West Virginia,44,,North Carolina State,27,,Big 12,Atlantic Coast,38.59762620000001,-80.4549026,35.7846633,-78.6820946
+3,Kansas State,31,,Mississippi State,24,,Big 12,Southeastern,39.1974437,-96.58472490000001,33.455174199999995,-88.79437659999998
+3,Eastern Michigan,34,,Illinois,31,,Mid-American,Big Ten,42.2506803,-83.624089,40.6331249,-89.3985283
+3,Penn State,17,13.0,Pittsburgh,10,,Big Ten,Atlantic Coast,40.7982133,-77.85990840000002,40.4443533,-79.960835
+3,Virginia Tech,24,,Furman,17,,Atlantic Coast,,37.22838429999999,-80.42341669999998,,
+3,Tennessee,45,,Chattanooga,0,,Southeastern,,35.517491299999996,-86.5804473,,
+3,Ohio State,51,6.0,Indiana,10,,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,40.2671941,-86.1349019
+3,Temple,20,,Maryland,17,21.0,American Athletic Conference,Big Ten,37.0421218,-95.6273972,39.0457549,-76.64127119999998
+3,Cincinnati,35,,Miami (OH),13,,American Athletic Conference,Mid-American,39.103118200000004,-84.5120196,39.5105334,-84.73087679999998
+3,Georgia,55,3.0,Arkansas State,0,,Southeastern,Sun Belt,32.1656221,-82.9000751,35.20105,-91.83183340000001
+3,The Citadel,27,,Georgia Tech,24,,,Atlantic Coast,,,33.7756178,-84.39628499999998
+3,Air Force,30,,Colorado,23,,Mountain West,Pac-12,37.0955676,-94.4778033,39.55005070000001,-105.78206740000002
+3,Florida Atlantic,41,,Ball State,31,,Conference USA,Mid-American,26.374987599999997,-80.10106329999998,40.2041356,-85.4058996
+3,Coastal Carolina,46,,Norfolk State,7,,Sun Belt,,33.7965964,-79.01336119999998,,
+3,Notre Dame,66,7.0,New Mexico,14,,Independents(FBS),Mountain West,41.7055716,-86.2353388,34.5199402,-105.87009009999998
+3,Central Michigan,45,,Akron,24,,Mid-American,Mid-American,43.5819086,-84.77563640000002,41.08144470000001,-81.51900529999998
+3,Navy,42,,East Carolina,10,,American Athletic Conference,American Athletic Conference,37.22462279999999,-95.70705240000001,35.6055108,-77.3645653
+3,Brigham Young,30,,USC,27,24.0,Independents(FBS),Pac-12,40.2518435,-111.6493156,34.0223519,-118.285117
+3,Alabama,47,2.0,South Carolina,23,,Southeastern,Southeastern,32.3182314,-86.902298,33.836081,-81.1637245
+3,Memphis,42,,South Alabama,6,,American Athletic Conference,Sun Belt,35.1495343,-90.0489801,30.6959406,-88.184236
+3,Oklahoma State,40,,Tulsa,21,,Big 12,American Athletic Conference,36.1270236,-97.0737222,36.1539816,-95.992775
+3,Minnesota,35,,Georgia Southern,32,,Big Ten,Sun Belt,46.729553,-94.6858998,32.42054890000001,-81.78653469999998
+3,Northwestern,30,,UNLV,14,,Big Ten,Mountain West,42.0564594,-87.67526699999998,36.1085197,-115.1431709
+3,Army,31,,UTSA,13,,Independents(FBS),Conference USA,37.1033072,-95.5678528,29.5829744,-98.6197293
+3,UCF,45,17.0,Stanford,27,,American Athletic Conference,Pac-12,28.602427399999996,-81.2000599,37.4274745,-122.169719
+3,Miami (FL),63,,Bethune-Cookman,0,,Atlantic Coast,,25.7616798,-80.1917902,,
+3,Louisville,38,,Western Kentucky,21,,Atlantic Coast,Conference USA,38.252664700000004,-85.7584557,36.9853543,-86.456138
+3,Ole Miss,40,,Southeastern La.,29,,Southeastern,,34.364732399999994,-89.538443,,
+3,Iowa,18,19.0,Iowa State,17,,Big Ten,Big 12,41.8780025,-93.097702,42.0266187,-93.64646540000001
+3,Arkansas,55,,Colorado State,34,,Southeastern,Mountain West,35.20105,-91.83183340000001,39.55005070000001,-105.78206740000002
+3,Arizona State,10,,Michigan State,7,18.0,Pac-12,Big Ten,34.048928100000005,-111.0937311,42.701848,-84.4821719
+3,California,23,,North Texas,17,,Pac-12,Conference USA,36.778261,-119.4179324,33.207488,-97.1525862
+3,Oregon State,45,,Cal Poly,7,,Pac-12,,44.5637806,-123.2794443,,
+3,Utah,31,11.0,Idaho State,0,,Pac-12,,39.32098010000001,-111.0937311,,
+3,Wyoming,21,,Idaho,16,,Mountain West,,43.075967799999994,-107.29028390000002,,
+3,Louisiana Tech,35,,Bowling Green,7,,Conference USA,Mid-American,32.5282644,-92.6499298,41.3797788,-83.6300826
+3,Southern Miss,47,,Troy,42,,Conference USA,Sun Belt,31.330011499999998,-89.3340423,42.6064095,-83.1497751
+3,Charlotte,52,,Massachusetts,17,,Conference USA,Independents(FBS),35.2270869,-80.8431267,42.4072107,-71.3824374
+3,South Florida,55,,S. Carolina State,16,,American Athletic Conference,,27.664827399999997,-81.5157535,,
+3,Liberty,35,,Buffalo,17,,Independents(FBS),Mid-American,37.1556278,-95.5947005,42.88644679999999,-78.8783689
+3,Marshall,33,,Ohio,31,,Conference USA,Mid-American,36.056901,-96.005218,40.4172871,-82.90712300000001
+3,Auburn,55,8.0,Kent State,16,,Southeastern,Mid-American,32.6098566,-85.48078249999998,41.145559399999996,-81.33928829999998
+3,Toledo,45,,Murray State,0,,Mid-American,,41.6528052,-83.53786740000002,,
+3,Western Michigan,57,,Georgia State,10,,Mid-American,Sun Belt,42.2837336,-85.6102507,33.753068,-84.38528190000002
+3,Florida,29,9.0,Kentucky,21,,Southeastern,Southeastern,27.664827399999997,-81.5157535,37.83933320000001,-84.2700179
+3,Texas A&M,62,16.0,Lamar University,3,,Southeastern,,30.6090918,-96.33371240000001,,
+3,SMU,47,,Texas State,17,,American Athletic Conference,Sun Belt,32.8412178,-96.7845175,29.888410999999998,-97.938351
+3,Florida International,30,,New Hampshire,17,,Conference USA,,25.756127499999998,-80.3768786,,
+3,Duke,41,,Middle Tennessee,18,,Atlantic Coast,Conference USA,36.0014258,-78.9382286,35.8486105,-86.3648813
+3,Nevada,19,,Weber State,13,,Mountain West,,38.8026097,-116.419389,,
+3,LSU,65,4.0,N'western State,14,,Southeastern,,30.413257899999998,-91.1800023,,
+3,Louisiana-Lafayette,77,,Texas Southern,6,,Sun Belt,,30.211440399999997,-92.02041209999999,,
+3,Missouri,50,,Southeast Mo. State,0,,Southeastern,,37.9642529,-91.83183340000001,,
+3,Clemson,41,1.0,Syracuse,6,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,43.0481221,-76.14742439999998
+3,TCU,34,,Purdue,13,,Big 12,Big Ten,32.7095936,-97.36356020000001,40.4237054,-86.92119459999998
+3,Washington,52,23.0,Hawaii,20,,Pac-12,Mountain West,47.751074100000004,-120.7401385,19.8967662,-155.58278180000005
+3,Virginia,31,25.0,Florida State,24,,Atlantic Coast,Atlantic Coast,37.4315734,-78.65689420000002,30.4418778,-84.29848890000002
+3,Texas,48,12.0,Rice,13,,Big 12,Conference USA,31.968598800000002,-99.9018131,29.7173941,-95.4018312
+3,Oklahoma,48,5.0,UCLA,14,,Big 12,Pac-12,35.007751899999995,-97.092877,34.068921,-118.4451811
+3,Nebraska,44,,Northern Illinois,8,,Big Ten,Mid-American,41.4925374,-99.9018131,41.934233,-88.774069
+3,San Diego State,31,,New Mexico State,10,,Mountain West,Independents(FBS),32.77572170000001,-117.0718893,32.2787745,-106.7479059
+3,Tulane,58,,Missouri State,6,,American Athletic Conference,,29.940728200000002,-90.1203167,,
+3,Boise State,45,22.0,Portland State,10,,Mountain West,,43.60269520000001,-116.2014604,,
+3,Arizona,28,,Texas Tech,14,,Pac-12,Big 12,34.048928100000005,-111.0937311,33.584259100000004,-101.8782822
+3,Oregon,35,15.0,Montana,3,,Pac-12,,43.8041334,-120.55420120000001,,
+4,Tulane,38,,Houston,31,,American Athletic Conference,American Athletic Conference,29.940728200000002,-90.1203167,29.7604267,-95.36980279999999
+4,Louisiana Tech,43,,Florida International,31,,Conference USA,Conference USA,32.5282644,-92.6499298,25.756127499999998,-80.3768786
+4,USC,30,,Utah,23,10.0,Pac-12,Pac-12,34.0223519,-118.285117,39.32098010000001,-111.0937311
+4,Boise State,30,20.0,Air Force,19,,Mountain West,Mountain West,43.60269520000001,-116.2014604,37.0955676,-94.4778033
+4,Army,52,,Morgan State,21,,Independents(FBS),,37.1033072,-95.5678528,,
+4,Florida,34,9.0,Tennessee,3,,Southeastern,Southeastern,27.664827399999997,-81.5157535,35.517491299999996,-86.5804473
+4,Iowa State,72,,Louisiana-Monroe,20,,Big 12,Sun Belt,42.0266187,-93.64646540000001,32.528282,-92.073415
+4,Alabama,49,2.0,Southern Miss,7,,Southeastern,Conference USA,32.3182314,-86.902298,31.330011499999998,-89.3340423
+4,Wake Forest,49,,Elon,7,,Atlantic Coast,,36.1340985,-80.2778951,,
+4,Boston College,30,,Rutgers,16,,Atlantic Coast,Big Ten,42.3355488,-71.16849450000002,40.500818599999995,-74.44739910000001
+4,LSU,66,4.0,Vanderbilt,38,,Southeastern,Southeastern,30.413257899999998,-91.1800023,36.1447034,-86.8026551
+4,Wisconsin,35,13.0,Michigan,14,11.0,Big Ten,Big Ten,43.78443970000001,-88.7878678,44.3148443,-85.60236429999998
+4,California,28,23.0,Ole Miss,20,,Pac-12,Southeastern,36.778261,-119.4179324,34.364732399999994,-89.538443
+4,Indiana,38,,Connecticut,3,,Big Ten,American Athletic Conference,40.2671941,-86.1349019,41.60322070000001,-73.087749
+4,Syracuse,52,,Western Michigan,33,,Atlantic Coast,Mid-American,43.0481221,-76.14742439999998,42.2837336,-85.6102507
+4,Michigan State,31,,Northwestern,10,,Big Ten,Big Ten,42.701848,-84.4821719,42.0564594,-87.67526699999998
+4,Coastal Carolina,62,,Massachusetts,28,,Sun Belt,Independents(FBS),33.7965964,-79.01336119999998,42.4072107,-71.3824374
+4,Louisiana-Lafayette,45,,Ohio,25,,Sun Belt,Mid-American,30.211440399999997,-92.02041209999999,40.4172871,-82.90712300000001
+4,Eastern Michigan,34,,Cent. Conn. State,29,,Mid-American,,42.2506803,-83.624089,,
+4,Troy,35,,Akron,7,,Sun Belt,Mid-American,42.6064095,-83.1497751,41.08144470000001,-81.51900529999998
+4,SMU,41,,TCU,38,25.0,American Athletic Conference,Big 12,32.8412178,-96.7845175,32.7095936,-97.36356020000001
+4,Tulsa,24,,Wyoming,21,,American Athletic Conference,Mountain West,36.1539816,-95.992775,43.075967799999994,-107.29028390000002
+4,Ohio State,76,6.0,Miami (OH),5,,Big Ten,Mid-American,40.006836299999996,-83.03062220000002,39.5105334,-84.73087679999998
+4,Pittsburgh,35,,UCF,34,15.0,Atlantic Coast,American Athletic Conference,40.4443533,-79.960835,28.602427399999996,-81.2000599
+4,Washington,45,22.0,Brigham Young,19,,Pac-12,Independents(FBS),47.751074100000004,-120.7401385,40.2518435,-111.6493156
+4,Auburn,28,8.0,Texas A&M,20,17.0,Southeastern,Southeastern,32.6098566,-85.48078249999998,30.6090918,-96.33371240000001
+4,Kent State,62,,Bowling Green,20,,Mid-American,Mid-American,41.145559399999996,-81.33928829999998,41.3797788,-83.6300826
+4,Florida State,35,,Louisville,24,,Atlantic Coast,Atlantic Coast,30.4418778,-84.29848890000002,38.252664700000004,-85.7584557
+4,Buffalo,38,,Temple,22,,Mid-American,American Athletic Conference,42.88644679999999,-78.8783689,37.0421218,-95.6273972
+4,Appalachian State,34,,North Carolina,31,,Sun Belt,Atlantic Coast,36.2134842,-81.6841448,35.75957310000001,-79.01929969999998
+4,UAB,35,,South Alabama,3,,Conference USA,Sun Belt,33.5019893,-86.8064433,30.6959406,-88.184236
+4,Missouri,34,,South Carolina,14,,Southeastern,Southeastern,37.9642529,-91.83183340000001,33.836081,-81.1637245
+4,Miami (FL),17,,Central Michigan,12,,Atlantic Coast,Mid-American,25.7616798,-80.1917902,43.5819086,-84.77563640000002
+4,Mississippi State,28,,Kentucky,13,,Southeastern,Southeastern,33.455174199999995,-88.79437659999998,37.83933320000001,-84.2700179
+4,New Mexico,55,,New Mexico State,52,,Mountain West,Independents(FBS),34.5199402,-105.87009009999998,32.2787745,-106.7479059
+4,West Virginia,29,,Kansas,24,,Big 12,Big 12,38.59762620000001,-80.4549026,39.011902,-98.4842465
+4,Liberty,62,,Hampton,27,,Independents(FBS),,37.1556278,-95.5947005,,
+4,East Carolina,19,,William & Mary,7,,American Athletic Conference,,35.6055108,-77.3645653,,
+4,Florida Atlantic,42,,Wagner,7,,Conference USA,,26.374987599999997,-80.10106329999998,,
+4,North Carolina State,34,,Ball State,23,,Atlantic Coast,Mid-American,35.7846633,-78.6820946,40.2041356,-85.4058996
+4,Oregon,21,16.0,Stanford,6,,Pac-12,Pac-12,43.8041334,-120.55420120000001,37.4274745,-122.169719
+4,Arkansas State,41,,Southern Illinois,28,,Sun Belt,,35.20105,-91.83183340000001,,
+4,Virginia,28,21.0,Old Dominion,17,,Atlantic Coast,Conference USA,37.4315734,-78.65689420000002,37.370863299999996,-95.26379140000002
+4,Baylor,21,,Rice,13,,Big 12,Conference USA,31.5497007,-97.1143046,29.7173941,-95.4018312
+4,Texas State,37,,Georgia State,34,,Sun Belt,Sun Belt,29.888410999999998,-97.938351,33.753068,-84.38528190000002
+4,North Texas,45,,UTSA,3,,Conference USA,Conference USA,33.207488,-97.1525862,29.5829744,-98.6197293
+4,Clemson,52,1.0,Charlotte,10,,Atlantic Coast,Conference USA,34.673843700000006,-82.83686540000002,35.2270869,-80.8431267
+4,Texas,36,12.0,Oklahoma State,30,,Big 12,Big 12,31.968598800000002,-99.9018131,36.1270236,-97.0737222
+4,San Jose State,31,,Arkansas,24,,Mountain West,Southeastern,37.3351874,-121.8810715,35.20105,-91.83183340000001
+4,Nebraska,42,,Illinois,38,,Big Ten,Big Ten,41.4925374,-99.9018131,40.6331249,-89.3985283
+4,Georgia,23,3.0,Notre Dame,17,7.0,Southeastern,Independents(FBS),32.1656221,-82.9000751,41.7055716,-86.2353388
+4,Nevada,37,,UTEP,21,,Mountain West,Conference USA,38.8026097,-116.419389,31.7709368,-106.50464050000001
+4,Colorado,34,,Arizona State,31,24.0,Pac-12,Pac-12,39.55005070000001,-105.78206740000002,34.048928100000005,-111.0937311
+4,Fresno State,34,,Sacramento State,20,,Mountain West,,36.8124451,-119.7457805,,
+4,Toledo,41,,Colorado State,35,,Mid-American,Mountain West,41.6528052,-83.53786740000002,39.55005070000001,-105.78206740000002
+4,Utah State,23,,San Diego State,17,,Mountain West,Mountain West,41.745160999999996,-111.8097425,32.77572170000001,-117.0718893
+4,UCLA,67,,Washington State,63,19.0,Pac-12,Pac-12,34.068921,-118.4451811,47.751074100000004,-120.7401385
+4,Hawaii,35,,Central Ark.,16,,Mountain West,,19.8967662,-155.58278180000005,,
+5,Memphis,35,,Navy,23,,American Athletic Conference,American Athletic Conference,35.1495343,-90.0489801,37.22462279999999,-95.70705240000001
+5,Duke,45,,Virginia Tech,10,,Atlantic Coast,Atlantic Coast,36.0014258,-78.9382286,37.22838429999999,-80.42341669999998
+5,Penn State,59,12.0,Maryland,0,,Big Ten,Big Ten,40.7982133,-77.85990840000002,39.0457549,-76.64127119999998
+5,Air Force,41,,San Jose State,24,,Mountain West,Mountain West,37.0955676,-94.4778033,37.3351874,-121.8810715
+5,Arizona State,24,,California,17,15.0,Pac-12,Pac-12,34.048928100000005,-111.0937311,36.778261,-119.4179324
+5,Wisconsin,24,8.0,Northwestern,15,,Big Ten,Big Ten,43.78443970000001,-88.7878678,42.0564594,-87.67526699999998
+5,Miami (OH),34,,Buffalo,20,,Mid-American,Mid-American,39.5105334,-84.73087679999998,42.88644679999999,-78.8783689
+5,Michigan,52,20.0,Rutgers,0,,Big Ten,Big Ten,44.3148443,-85.60236429999998,40.500818599999995,-74.44739910000001
+5,Toledo,28,,Brigham Young,21,,Mid-American,Independents(FBS),41.6528052,-83.53786740000002,40.2518435,-111.6493156
+5,Iowa,48,14.0,Middle Tennessee,3,,Big Ten,Conference USA,41.8780025,-93.097702,35.8486105,-86.3648813
+5,Oklahoma,55,6.0,Texas Tech,16,,Big 12,Big 12,35.007751899999995,-97.092877,33.584259100000004,-101.8782822
+5,Syracuse,41,,Holy Cross,3,,Atlantic Coast,,43.0481221,-76.14742439999998,,
+5,Vanderbilt,24,,Northern Illinois,18,,Southeastern,Mid-American,36.1447034,-86.8026551,41.934233,-88.774069
+5,Western Michigan,31,,Central Michigan,15,,Mid-American,Mid-American,42.2837336,-85.6102507,43.5819086,-84.77563640000002
+5,TCU,51,,Kansas,14,,Big 12,Big 12,32.7095936,-97.36356020000001,39.011902,-98.4842465
+5,Texas A&M,31,23.0,Arkansas,27,,Southeastern,Southeastern,30.6090918,-96.33371240000001,35.20105,-91.83183340000001
+5,Pittsburgh,17,,Delaware,14,,Atlantic Coast,,40.4443533,-79.960835,,
+5,Baylor,23,,Iowa State,21,,Big 12,Big 12,31.5497007,-97.1143046,42.0266187,-93.64646540000001
+5,Temple,24,,Georgia Tech,2,,American Athletic Conference,Atlantic Coast,37.0421218,-95.6273972,33.7756178,-84.39628499999998
+5,Florida Atlantic,45,,Charlotte,27,,Conference USA,Conference USA,26.374987599999997,-80.10106329999998,35.2270869,-80.8431267
+5,Michigan State,40,25.0,Indiana,31,,Big Ten,Big Ten,42.701848,-84.4821719,40.2671941,-86.1349019
+5,Minnesota,38,,Purdue,31,,Big Ten,Big Ten,46.729553,-94.6858998,40.4237054,-86.92119459999998
+5,Appalachian State,56,,Coastal Carolina,37,,Sun Belt,Sun Belt,36.2134842,-81.6841448,33.7965964,-79.01336119999998
+5,Notre Dame,35,10.0,Virginia,20,18.0,Independents(FBS),Atlantic Coast,41.7055716,-86.2353388,37.4315734,-78.65689420000002
+5,Alabama,59,2.0,Ole Miss,31,,Southeastern,Southeastern,32.3182314,-86.902298,34.364732399999994,-89.538443
+5,Wake Forest,27,,Boston College,24,,Atlantic Coast,Atlantic Coast,36.1340985,-80.2778951,42.3355488,-71.16849450000002
+5,Clemson,21,1.0,North Carolina,20,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,35.75957310000001,-79.01929969999998
+5,Washington,28,17.0,USC,14,21.0,Pac-12,Pac-12,47.751074100000004,-120.7401385,34.0223519,-118.285117
+5,Massachusetts,37,,Akron,29,,Independents(FBS),Mid-American,42.4072107,-71.3824374,41.08144470000001,-81.51900529999998
+5,SMU,48,,South Florida,21,,American Athletic Conference,American Athletic Conference,32.8412178,-96.7845175,27.664827399999997,-81.5157535
+5,Florida,38,9.0,Towson,0,,Southeastern,,27.664827399999997,-81.5157535,,
+5,Cincinnati,52,,Marshall,14,,American Athletic Conference,Conference USA,39.103118200000004,-84.5120196,36.056901,-96.005218
+5,Arkansas State,50,,Troy,43,,Sun Belt,Sun Belt,35.20105,-91.83183340000001,42.6064095,-83.1497751
+5,Liberty,17,,New Mexico,10,,Independents(FBS),Mountain West,37.1556278,-95.5947005,34.5199402,-105.87009009999998
+5,Louisiana-Lafayette,37,,Georgia Southern,24,,Sun Belt,Sun Belt,30.211440399999997,-92.02041209999999,32.42054890000001,-81.78653469999998
+5,East Carolina,24,,Old Dominion,21,,American Athletic Conference,Conference USA,35.6055108,-77.3645653,37.370863299999996,-95.26379140000002
+5,Texas State,24,,Nicholls State,3,,Sun Belt,,29.888410999999998,-97.938351,,
+5,Southern Miss,31,,UTEP,13,,Conference USA,Conference USA,31.330011499999998,-89.3340423,31.7709368,-106.50464050000001
+5,UCF,56,22.0,Connecticut,21,,American Athletic Conference,American Athletic Conference,28.602427399999996,-81.2000599,41.60322070000001,-73.087749
+5,Oklahoma State,26,,Kansas State,13,24.0,Big 12,Big 12,36.1270236,-97.0737222,39.1974437,-96.58472490000001
+5,Louisiana Tech,23,,Rice,20,,Conference USA,Conference USA,32.5282644,-92.6499298,29.7173941,-95.4018312
+5,Western Kentucky,20,,UAB,13,,Conference USA,Conference USA,36.9853543,-86.456138,33.5019893,-86.8064433
+5,Stanford,31,,Oregon State,28,,Pac-12,Pac-12,37.4274745,-122.169719,44.5637806,-123.2794443
+5,Louisiana-Monroe,30,,South Alabama,17,,Sun Belt,Sun Belt,32.528282,-92.073415,30.6959406,-88.184236
+5,Auburn,56,7.0,Mississippi State,23,,Southeastern,Southeastern,32.6098566,-85.48078249999998,33.455174199999995,-88.79437659999998
+5,Ohio State,48,5.0,Nebraska,7,,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,41.4925374,-99.9018131
+5,South Carolina,24,,Kentucky,7,,Southeastern,Southeastern,33.836081,-81.1637245,37.83933320000001,-84.2700179
+5,Utah State,34,,Colorado State,24,,Mountain West,Mountain West,41.745160999999996,-111.8097425,39.55005070000001,-105.78206740000002
+5,Florida State,31,,North Carolina State,13,,Atlantic Coast,Atlantic Coast,30.4418778,-84.29848890000002,35.7846633,-78.6820946
+5,Fresno State,30,,New Mexico State,17,,Mountain West,Independents(FBS),36.8124451,-119.7457805,32.2787745,-106.7479059
+5,Houston,46,,North Texas,25,,American Athletic Conference,Conference USA,29.7604267,-95.36980279999999,33.207488,-97.1525862
+5,Wyoming,53,,UNLV,17,,Mountain West,Mountain West,43.075967799999994,-107.29028390000002,36.1085197,-115.1431709
+5,Utah,38,19.0,Washington State,13,,Pac-12,Pac-12,39.32098010000001,-111.0937311,47.751074100000004,-120.7401385
+5,Hawaii,54,,Nevada,3,,Mountain West,Mountain West,19.8967662,-155.58278180000005,38.8026097,-116.419389
+5,Arizona,20,,UCLA,17,,Pac-12,Pac-12,34.048928100000005,-111.0937311,34.068921,-118.4451811
+6,Georgia Southern,20,,South Alabama,17,,Sun Belt,Sun Belt,32.42054890000001,-81.78653469999998,30.6959406,-88.184236
+6,Temple,27,,East Carolina,17,,American Athletic Conference,American Athletic Conference,37.0421218,-95.6273972,35.6055108,-77.3645653
+6,Cincinnati,27,,UCF,24,18.0,American Athletic Conference,American Athletic Conference,39.103118200000004,-84.5120196,28.602427399999996,-81.2000599
+6,San Jose State,32,,New Mexico,21,,Mountain West,Mountain West,37.3351874,-121.8810715,34.5199402,-105.87009009999998
+6,Oklahoma,45,6.0,Kansas,20,,Big 12,Big 12,35.007751899999995,-97.092877,39.011902,-98.4842465
+6,Wisconsin,48,8.0,Kent State,0,,Big Ten,Mid-American,43.78443970000001,-88.7878678,41.145559399999996,-81.33928829999998
+6,Michigan,10,19.0,Iowa,3,14.0,Big Ten,Big Ten,44.3148443,-85.60236429999998,41.8780025,-93.097702
+6,LSU,42,5.0,Utah State,6,,Southeastern,Mountain West,30.413257899999998,-91.1800023,41.745160999999996,-111.8097425
+6,Texas Tech,45,,Oklahoma State,35,21.0,Big 12,Big 12,33.584259100000004,-101.8782822,36.1270236,-97.0737222
+6,South Florida,48,,Connecticut,22,,American Athletic Conference,American Athletic Conference,27.664827399999997,-81.5157535,41.60322070000001,-73.087749
+6,Maryland,48,,Rutgers,7,,Big Ten,Big Ten,39.0457549,-76.64127119999998,40.500818599999995,-74.44739910000001
+6,Tulane,42,,Army,33,,American Athletic Conference,Independents(FBS),29.940728200000002,-90.1203167,37.1033072,-95.5678528
+6,Penn State,35,12.0,Purdue,7,,Big Ten,Big Ten,40.7982133,-77.85990840000002,40.4237054,-86.92119459999998
+6,Louisville,41,,Boston College,39,,Atlantic Coast,Atlantic Coast,38.252664700000004,-85.7584557,42.3355488,-71.16849450000002
+6,Iowa State,49,,TCU,24,,Big 12,Big 12,42.0266187,-93.64646540000001,32.7095936,-97.36356020000001
+6,Central Michigan,42,,Eastern Michigan,16,,Mid-American,Mid-American,43.5819086,-84.77563640000002,42.2506803,-83.624089
+6,Ohio,21,,Buffalo,20,,Mid-American,Mid-American,40.4172871,-82.90712300000001,42.88644679999999,-78.8783689
+6,Georgia State,52,,Arkansas State,38,,Sun Belt,Sun Belt,33.753068,-84.38528190000002,35.20105,-91.83183340000001
+6,Baylor,31,,Kansas State,12,,Big 12,Big 12,31.5497007,-97.1143046,39.1974437,-96.58472490000001
+6,Ball State,27,,Northern Illinois,20,,Mid-American,Mid-American,40.2041356,-85.4058996,41.934233,-88.774069
+6,Navy,34,,Air Force,25,,American Athletic Conference,Mountain West,37.22462279999999,-95.70705240000001,37.0955676,-94.4778033
+6,Toledo,31,,Western Michigan,24,,Mid-American,Mid-American,41.6528052,-83.53786740000002,42.2837336,-85.6102507
+6,Florida,24,10.0,Auburn,13,7.0,Southeastern,Southeastern,27.664827399999997,-81.5157535,32.6098566,-85.48078249999998
+6,Texas,42,11.0,West Virginia,31,,Big 12,Big 12,31.968598800000002,-99.9018131,38.59762620000001,-80.4549026
+6,Notre Dame,52,9.0,Bowling Green,0,,Independents(FBS),Mid-American,41.7055716,-86.2353388,41.3797788,-83.6300826
+6,Minnesota,40,,Illinois,17,,Big Ten,Big Ten,46.729553,-94.6858998,40.6331249,-89.3985283
+6,Middle Tennessee,24,,Marshall,13,,Conference USA,Conference USA,35.8486105,-86.3648813,36.056901,-96.005218
+6,Virginia Tech,42,,Miami (FL),35,,Atlantic Coast,Atlantic Coast,37.22838429999999,-80.42341669999998,25.7616798,-80.1917902
+6,Memphis,52,,Louisiana-Monroe,33,,American Athletic Conference,Sun Belt,35.1495343,-90.0489801,32.528282,-92.073415
+6,North Carolina,38,,Georgia Tech,22,,Atlantic Coast,Atlantic Coast,35.75957310000001,-79.01929969999998,33.7756178,-84.39628499999998
+6,Nebraska,13,,Northwestern,10,,Big Ten,Big Ten,41.4925374,-99.9018131,42.0564594,-87.67526699999998
+6,Missouri,42,,Troy,10,,Southeastern,Sun Belt,37.9642529,-91.83183340000001,42.6064095,-83.1497751
+6,Arizona,35,,Colorado,30,,Pac-12,Pac-12,34.048928100000005,-111.0937311,39.55005070000001,-105.78206740000002
+6,Western Kentucky,20,,Old Dominion,3,,Conference USA,Conference USA,36.9853543,-86.456138,37.370863299999996,-95.26379140000002
+6,Florida International,44,,Massachusetts,0,,Conference USA,Independents(FBS),25.756127499999998,-80.3768786,42.4072107,-71.3824374
+6,UAB,35,,Rice,20,,Conference USA,Conference USA,33.5019893,-86.8064433,29.7173941,-95.4018312
+6,Georgia,43,3.0,Tennessee,14,,Southeastern,Southeastern,32.1656221,-82.9000751,35.517491299999996,-86.5804473
+6,Ole Miss,31,,Vanderbilt,6,,Southeastern,Southeastern,34.364732399999994,-89.538443,36.1447034,-86.8026551
+6,Ohio State,34,4.0,Michigan State,10,25.0,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,42.701848,-84.4821719
+6,SMU,43,24.0,Tulsa,37,,American Athletic Conference,American Athletic Conference,32.8412178,-96.7845175,36.1539816,-95.992775
+6,Pittsburgh,33,,Duke,30,,Atlantic Coast,Atlantic Coast,40.4443533,-79.960835,36.0014258,-78.9382286
+6,UTSA,26,,UTEP,16,,Conference USA,Conference USA,29.5829744,-98.6197293,31.7709368,-106.50464050000001
+6,Oregon,17,13.0,California,7,,Pac-12,Pac-12,43.8041334,-120.55420120000001,36.778261,-119.4179324
+6,Liberty,20,,New Mexico State,13,,Independents(FBS),Independents(FBS),37.1556278,-95.5947005,32.2787745,-106.7479059
+6,Oregon State,48,,UCLA,31,,Pac-12,Pac-12,44.5637806,-123.2794443,34.068921,-118.4451811
+6,San Diego State,24,,Colorado State,10,,Mountain West,Mountain West,32.77572170000001,-117.0718893,39.55005070000001,-105.78206740000002
+6,Boise State,38,16.0,UNLV,13,,Mountain West,Mountain West,43.60269520000001,-116.2014604,36.1085197,-115.1431709
+6,Stanford,23,,Washington,13,15.0,Pac-12,Pac-12,37.4274745,-122.169719,47.751074100000004,-120.7401385
+7,Appalachian State,17,,Louisiana-Lafayette,7,,Sun Belt,Sun Belt,36.2134842,-81.6841448,30.211440399999997,-92.02041209999999
+7,North Carolina State,16,,Syracuse,10,,Atlantic Coast,Atlantic Coast,35.7846633,-78.6820946,43.0481221,-76.14742439999998
+7,Louisiana-Monroe,24,,Texas State,14,,Sun Belt,Sun Belt,32.528282,-92.073415,29.888410999999998,-97.938351
+7,Colorado State,35,,New Mexico,21,,Mountain West,Mountain West,39.55005070000001,-105.78206740000002,34.5199402,-105.87009009999998
+7,Miami (FL),17,,Virginia,9,20.0,Atlantic Coast,Atlantic Coast,25.7616798,-80.1917902,37.4315734,-78.65689420000002
+7,Oregon,45,13.0,Colorado,3,,Pac-12,Pac-12,43.8041334,-120.55420120000001,39.55005070000001,-105.78206740000002
+7,South Carolina,20,,Georgia,17,3.0,Southeastern,Southeastern,33.836081,-81.1637245,32.1656221,-82.9000751
+7,Western Michigan,38,,Miami (OH),16,,Mid-American,Mid-American,42.2837336,-85.6102507,39.5105334,-84.73087679999998
+7,Oklahoma,34,6.0,Texas,27,11.0,Big 12,Big 12,35.007751899999995,-97.092877,31.968598800000002,-99.9018131
+7,Michigan,42,16.0,Illinois,25,,Big Ten,Big Ten,44.3148443,-85.60236429999998,40.6331249,-89.3985283
+7,Bowling Green,20,,Toledo,7,,Mid-American,Mid-American,41.3797788,-83.6300826,41.6528052,-83.53786740000002
+7,Tennessee,20,,Mississippi State,10,,Southeastern,Southeastern,35.517491299999996,-86.5804473,33.455174199999995,-88.79437659999998
+7,Temple,30,,Memphis,28,23.0,American Athletic Conference,American Athletic Conference,37.0421218,-95.6273972,35.1495343,-90.0489801
+7,Indiana,35,,Rutgers,0,,Big Ten,Big Ten,40.2671941,-86.1349019,40.500818599999995,-74.44739910000001
+7,Purdue,40,,Maryland,14,,Big Ten,Big Ten,40.4237054,-86.92119459999998,39.0457549,-76.64127119999998
+7,Duke,41,,Georgia Tech,23,,Atlantic Coast,Atlantic Coast,36.0014258,-78.9382286,33.7756178,-84.39628499999998
+7,Ball State,29,,Eastern Michigan,23,,Mid-American,Mid-American,40.2041356,-85.4058996,42.2506803,-83.624089
+7,Marshall,31,,Old Dominion,17,,Conference USA,Conference USA,36.056901,-96.005218,37.370863299999996,-95.26379140000002
+7,Central Michigan,42,,New Mexico State,28,,Mid-American,Independents(FBS),43.5819086,-84.77563640000002,32.2787745,-106.7479059
+7,South Florida,27,,Brigham Young,23,,American Athletic Conference,Independents(FBS),27.664827399999997,-81.5157535,40.2518435,-111.6493156
+7,Clemson,45,2.0,Florida State,14,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,30.4418778,-84.29848890000002
+7,Northern Illinois,39,,Ohio,36,,Mid-American,Mid-American,41.934233,-88.774069,40.4172871,-82.90712300000001
+7,Cincinnati,38,25.0,Houston,23,,American Athletic Conference,American Athletic Conference,39.103118200000004,-84.5120196,29.7604267,-95.36980279999999
+7,Wisconsin,38,8.0,Michigan State,0,,Big Ten,Big Ten,43.78443970000001,-88.7878678,42.701848,-84.4821719
+7,Alabama,47,1.0,Texas A&M,28,24.0,Southeastern,Southeastern,32.3182314,-86.902298,30.6090918,-96.33371240000001
+7,Arizona State,38,18.0,Washington State,34,,Pac-12,Pac-12,34.048928100000005,-111.0937311,47.751074100000004,-120.7401385
+7,Kent State,26,,Akron,3,,Mid-American,Mid-American,41.145559399999996,-81.33928829999998,41.08144470000001,-81.51900529999998
+7,Tulane,49,,Connecticut,7,,American Athletic Conference,American Athletic Conference,29.940728200000002,-90.1203167,41.60322070000001,-73.087749
+7,Baylor,33,22.0,Texas Tech,30,,Big 12,Big 12,31.5497007,-97.1143046,33.584259100000004,-101.8782822
+7,Iowa State,38,,West Virginia,14,,Big 12,Big 12,42.0266187,-93.64646540000001,38.59762620000001,-80.4549026
+7,Virginia Tech,34,,Rhode Island,17,,Atlantic Coast,,37.22838429999999,-80.42341669999998,,
+7,UNLV,34,,Vanderbilt,10,,Mountain West,Southeastern,36.1085197,-115.1431709,36.1447034,-86.8026551
+7,Nevada,41,,San Jose State,38,,Mountain West,Mountain West,38.8026097,-116.419389,37.3351874,-121.8810715
+7,Florida Atlantic,28,,Middle Tennessee,13,,Conference USA,Conference USA,26.374987599999997,-80.10106329999998,35.8486105,-86.3648813
+7,Georgia State,31,,Coastal Carolina,21,,Sun Belt,Sun Belt,33.753068,-84.38528190000002,33.7965964,-79.01336119999998
+7,UAB,33,,UTSA,14,,Conference USA,Conference USA,33.5019893,-86.8064433,29.5829744,-98.6197293
+7,Southern Miss,45,,North Texas,27,,Conference USA,Conference USA,31.330011499999998,-89.3340423,33.207488,-97.1525862
+7,Louisiana Tech,69,,Massachusetts,21,,Conference USA,Independents(FBS),32.5282644,-92.6499298,42.4072107,-71.3824374
+7,Western Kentucky,17,,Army,8,,Conference USA,Independents(FBS),36.9853543,-86.456138,37.1033072,-95.5678528
+7,Air Force,43,,Fresno State,24,,Mountain West,Mountain West,37.0955676,-94.4778033,36.8124451,-119.7457805
+7,Florida International,48,,Charlotte,23,,Conference USA,Conference USA,25.756127499999998,-80.3768786,35.2270869,-80.8431267
+7,Missouri,38,,Ole Miss,27,,Southeastern,Southeastern,37.9642529,-91.83183340000001,34.364732399999994,-89.538443
+7,Notre Dame,30,9.0,USC,27,,Independents(FBS),Pac-12,41.7055716,-86.2353388,34.0223519,-118.285117
+7,Kentucky,24,,Arkansas,20,,Southeastern,Southeastern,37.83933320000001,-84.2700179,35.20105,-91.83183340000001
+7,Louisville,62,,Wake Forest,59,19.0,Atlantic Coast,Atlantic Coast,38.252664700000004,-85.7584557,36.1340985,-80.2778951
+7,Navy,45,,Tulsa,17,,American Athletic Conference,American Athletic Conference,37.22462279999999,-95.70705240000001,36.1539816,-95.992775
+7,Minnesota,34,,Nebraska,7,,Big Ten,Big Ten,46.729553,-94.6858998,41.4925374,-99.9018131
+7,Penn State,17,10.0,Iowa,12,17.0,Big Ten,Big Ten,40.7982133,-77.85990840000002,41.8780025,-93.097702
+7,Utah,52,15.0,Oregon State,7,,Pac-12,Pac-12,39.32098010000001,-111.0937311,44.5637806,-123.2794443
+7,LSU,42,5.0,Florida,28,7.0,Southeastern,Southeastern,30.413257899999998,-91.1800023,27.664827399999997,-81.5157535
+7,Boise State,59,14.0,Hawaii,37,,Mountain West,Mountain West,43.60269520000001,-116.2014604,19.8967662,-155.58278180000005
+7,San Diego State,26,,Wyoming,22,,Mountain West,Mountain West,32.77572170000001,-117.0718893,43.075967799999994,-107.29028390000002
+7,Washington,51,,Arizona,27,,Pac-12,Pac-12,47.751074100000004,-120.7401385,34.048928100000005,-111.0937311
+8,Troy,37,,South Alabama,13,,Sun Belt,Sun Belt,42.6064095,-83.1497751,30.6959406,-88.184236
+8,Louisiana-Lafayette,37,,Arkansas State,20,,Sun Belt,Sun Belt,30.211440399999997,-92.02041209999999,35.20105,-91.83183340000001
+8,UCLA,34,,Stanford,16,,Pac-12,Pac-12,34.068921,-118.4451811,37.4274745,-122.169719
+8,Marshall,36,,Florida Atlantic,31,,Conference USA,Conference USA,36.056901,-96.005218,26.374987599999997,-80.10106329999998
+8,Pittsburgh,27,,Syracuse,20,,Atlantic Coast,Atlantic Coast,40.4443533,-79.960835,43.0481221,-76.14742439999998
+8,Ohio State,52,4.0,Northwestern,3,,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,42.0564594,-87.67526699999998
+8,Fresno State,56,,UNLV,27,,Mountain West,Mountain West,36.8124451,-119.7457805,36.1085197,-115.1431709
+8,Auburn,51,11.0,Arkansas,10,,Southeastern,Southeastern,32.6098566,-85.48078249999998,35.20105,-91.83183340000001
+8,Florida,38,9.0,South Carolina,27,,Southeastern,Southeastern,27.664827399999997,-81.5157535,33.836081,-81.1637245
+8,Georgia Tech,28,,Miami (FL),21,,Atlantic Coast,Atlantic Coast,33.7756178,-84.39628499999998,25.7616798,-80.1917902
+8,Oklahoma,52,5.0,West Virginia,14,,Big 12,Big 12,35.007751899999995,-97.092877,38.59762620000001,-80.4549026
+8,Clemson,45,3.0,Louisville,10,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,38.252664700000004,-85.7584557
+8,Iowa,26,23.0,Purdue,20,,Big Ten,Big Ten,41.8780025,-93.097702,40.4237054,-86.92119459999998
+8,Iowa State,34,,Texas Tech,24,,Big 12,Big 12,42.0266187,-93.64646540000001,33.584259100000004,-101.8782822
+8,Illinois,24,,Wisconsin,23,6.0,Big Ten,Big Ten,40.6331249,-89.3985283,43.78443970000001,-88.7878678
+8,Houston,24,,Connecticut,17,,American Athletic Conference,American Athletic Conference,29.7604267,-95.36980279999999,41.60322070000001,-73.087749
+8,Ohio,45,,Kent State,38,,Mid-American,Mid-American,40.4172871,-82.90712300000001,41.145559399999996,-81.33928829999998
+8,Boston College,45,,North Carolina State,24,,Atlantic Coast,Atlantic Coast,42.3355488,-71.16849450000002,35.7846633,-78.6820946
+8,Central Michigan,38,,Bowling Green,20,,Mid-American,Mid-American,43.5819086,-84.77563640000002,41.3797788,-83.6300826
+8,Ball State,52,,Toledo,14,,Mid-American,Mid-American,40.2041356,-85.4058996,41.6528052,-83.53786740000002
+8,Kansas State,24,,TCU,17,,Big 12,Big 12,39.1974437,-96.58472490000001,32.7095936,-97.36356020000001
+8,Oregon State,21,,California,17,,Pac-12,Pac-12,44.5637806,-123.2794443,36.778261,-119.4179324
+8,Miami (OH),27,,Northern Illinois,24,,Mid-American,Mid-American,39.5105334,-84.73087679999998,41.934233,-88.774069
+8,Georgia Southern,30,,Coastal Carolina,27,,Sun Belt,Sun Belt,32.42054890000001,-81.78653469999998,33.7965964,-79.01336119999998
+8,Wyoming,23,,New Mexico,10,,Mountain West,Mountain West,43.075967799999994,-107.29028390000002,34.5199402,-105.87009009999998
+8,Navy,35,,South Florida,3,,American Athletic Conference,American Athletic Conference,37.22462279999999,-95.70705240000001,27.664827399999997,-81.5157535
+8,Virginia,48,,Duke,14,,Atlantic Coast,Atlantic Coast,37.4315734,-78.65689420000002,36.0014258,-78.9382286
+8,LSU,36,2.0,Mississippi State,13,,Southeastern,Southeastern,30.413257899999998,-91.1800023,33.455174199999995,-88.79437659999998
+8,Cincinnati,24,21.0,Tulsa,13,,American Athletic Conference,American Athletic Conference,39.103118200000004,-84.5120196,36.1539816,-95.992775
+8,Virginia Tech,43,,North Carolina,41,,Atlantic Coast,Atlantic Coast,37.22838429999999,-80.42341669999998,35.75957310000001,-79.01929969999998
+8,SMU,45,19.0,Temple,21,,American Athletic Conference,American Athletic Conference,32.8412178,-96.7845175,37.0421218,-95.6273972
+8,Louisiana Tech,45,,Southern Miss,30,,Conference USA,Conference USA,32.5282644,-92.6499298,31.330011499999998,-89.3340423
+8,Appalachian State,52,24.0,Louisiana-Monroe,7,,Sun Belt,Sun Belt,36.2134842,-81.6841448,32.528282,-92.073415
+8,Oregon,35,12.0,Washington,31,25.0,Pac-12,Pac-12,43.8041334,-120.55420120000001,47.751074100000004,-120.7401385
+8,Indiana,34,,Maryland,28,,Big Ten,Big Ten,40.2671941,-86.1349019,39.0457549,-76.64127119999998
+8,Buffalo,21,,Akron,0,,Mid-American,Mid-American,42.88644679999999,-78.8783689,41.08144470000001,-81.51900529999998
+8,Minnesota,42,20.0,Rutgers,7,,Big Ten,Big Ten,46.729553,-94.6858998,40.500818599999995,-74.44739910000001
+8,Vanderbilt,21,,Missouri,14,22.0,Southeastern,Southeastern,36.1447034,-86.8026551,37.9642529,-91.83183340000001
+8,UAB,38,,Old Dominion,14,,Conference USA,Conference USA,33.5019893,-86.8064433,37.370863299999996,-95.26379140000002
+8,North Texas,33,,Middle Tennessee,30,,Conference USA,Conference USA,33.207488,-97.1525862,35.8486105,-86.3648813
+8,Baylor,45,18.0,Oklahoma State,27,,Big 12,Big 12,31.5497007,-97.1143046,36.1270236,-97.0737222
+8,Western Kentucky,30,,Charlotte,14,,Conference USA,Conference USA,36.9853543,-86.456138,35.2270869,-80.8431267
+8,Utah,21,13.0,Arizona State,3,17.0,Pac-12,Pac-12,39.32098010000001,-111.0937311,34.048928100000005,-111.0937311
+8,UTSA,31,,Rice,27,,Conference USA,Conference USA,29.5829744,-98.6197293,29.7173941,-95.4018312
+8,Liberty,59,,Maine,44,,Independents(FBS),,37.1556278,-95.5947005,,
+8,Georgia,21,10.0,Kentucky,0,,Southeastern,Southeastern,32.1656221,-82.9000751,37.83933320000001,-84.2700179
+8,Washington State,41,,Colorado,10,,Pac-12,Pac-12,47.751074100000004,-120.7401385,39.55005070000001,-105.78206740000002
+8,Memphis,47,,Tulane,17,,American Athletic Conference,American Athletic Conference,35.1495343,-90.0489801,29.940728200000002,-90.1203167
+8,Eastern Michigan,34,,Western Michigan,27,,Mid-American,Mid-American,42.2506803,-83.624089,42.2837336,-85.6102507
+8,Georgia State,28,,Army,21,,Sun Belt,Independents(FBS),33.753068,-84.38528190000002,37.1033072,-95.5678528
+8,Florida International,32,,UTEP,17,,Conference USA,Conference USA,25.756127499999998,-80.3768786,31.7709368,-106.50464050000001
+8,Texas,50,15.0,Kansas,48,,Big 12,Big 12,31.968598800000002,-99.9018131,39.011902,-98.4842465
+8,San Diego State,27,,San Jose State,17,,Mountain West,Mountain West,32.77572170000001,-117.0718893,37.3351874,-121.8810715
+8,UCF,41,,East Carolina,28,,American Athletic Conference,American Athletic Conference,28.602427399999996,-81.2000599,35.6055108,-77.3645653
+8,Wake Forest,22,,Florida State,20,,Atlantic Coast,Atlantic Coast,36.1340985,-80.2778951,30.4418778,-84.29848890000002
+8,Texas A&M,24,,Ole Miss,17,,Southeastern,Southeastern,30.6090918,-96.33371240000001,34.364732399999994,-89.538443
+8,Penn State,28,7.0,Michigan,21,16.0,Big Ten,Big Ten,40.7982133,-77.85990840000002,44.3148443,-85.60236429999998
+8,Alabama,35,1.0,Tennessee,13,,Southeastern,Southeastern,32.3182314,-86.902298,35.517491299999996,-86.5804473
+8,USC,41,,Arizona,14,,Pac-12,Pac-12,34.0223519,-118.285117,34.048928100000005,-111.0937311
+8,Utah State,36,,Nevada,10,,Mountain West,Mountain West,41.745160999999996,-111.8097425,38.8026097,-116.419389
+8,Brigham Young,28,,Boise State,25,14.0,Independents(FBS),Mountain West,40.2518435,-111.6493156,43.60269520000001,-116.2014604
+8,Air Force,56,,Hawaii,26,,Mountain West,Mountain West,37.0955676,-94.4778033,19.8967662,-155.58278180000005
+9,SMU,34,16.0,Houston,31,,American Athletic Conference,American Athletic Conference,32.8412178,-96.7845175,29.7604267,-95.36980279999999
+9,USC,35,,Colorado,31,,Pac-12,Pac-12,34.0223519,-118.285117,39.55005070000001,-105.78206740000002
+9,Ohio State,38,3.0,Wisconsin,7,13.0,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,43.78443970000001,-88.7878678
+9,Iowa,20,20.0,Northwestern,0,,Big Ten,Big Ten,41.8780025,-93.097702,42.0564594,-87.67526699999998
+9,Texas A&M,49,,Mississippi State,30,,Southeastern,Southeastern,30.6090918,-96.33371240000001,33.455174199999995,-88.79437659999998
+9,Miami (FL),16,,Pittsburgh,12,,Atlantic Coast,Atlantic Coast,25.7616798,-80.1917902,40.4443533,-79.960835
+9,Illinois,24,,Purdue,6,,Big Ten,Big Ten,40.6331249,-89.3985283,40.4237054,-86.92119459999998
+9,Rutgers,44,,Liberty,34,,Big Ten,Independents(FBS),40.500818599999995,-74.44739910000001,37.1556278,-95.5947005
+9,Kansas State,48,,Oklahoma,41,5.0,Big 12,Big 12,39.1974437,-96.58472490000001,35.007751899999995,-97.092877
+9,San Jose State,34,,Army,29,,Mountain West,Independents(FBS),37.3351874,-121.8810715,37.1033072,-95.5678528
+9,Western Michigan,49,,Bowling Green,10,,Mid-American,Mid-American,42.2837336,-85.6102507,41.3797788,-83.6300826
+9,Appalachian State,30,21.0,South Alabama,3,,Sun Belt,Sun Belt,36.2134842,-81.6841448,30.6959406,-88.184236
+9,Southern Miss,20,,Rice,6,,Conference USA,Conference USA,31.330011499999998,-89.3340423,29.7173941,-95.4018312
+9,Wyoming,31,,Nevada,3,,Mountain West,Mountain West,43.075967799999994,-107.29028390000002,38.8026097,-116.419389
+9,Ohio,34,,Ball State,21,,Mid-American,Mid-American,40.4172871,-82.90712300000001,40.2041356,-85.4058996
+9,Marshall,26,,Western Kentucky,23,,Conference USA,Conference USA,36.056901,-96.005218,36.9853543,-86.456138
+9,Georgia Southern,41,,New Mexico State,7,,Sun Belt,Independents(FBS),32.42054890000001,-81.78653469999998,32.2787745,-106.7479059
+9,Minnesota,52,17.0,Maryland,10,,Big Ten,Big Ten,46.729553,-94.6858998,39.0457549,-76.64127119999998
+9,Navy,41,,Tulane,38,,American Athletic Conference,American Athletic Conference,37.22462279999999,-95.70705240000001,29.940728200000002,-90.1203167
+9,Connecticut,56,,Massachusetts,35,,American Athletic Conference,Independents(FBS),41.60322070000001,-73.087749,42.4072107,-71.3824374
+9,Florida Atlantic,41,,Old Dominion,3,,Conference USA,Conference USA,26.374987599999997,-80.10106329999998,37.370863299999996,-95.26379140000002
+9,Indiana,38,,Nebraska,31,,Big Ten,Big Ten,40.2671941,-86.1349019,41.4925374,-99.9018131
+9,Louisville,28,,Virginia,21,,Atlantic Coast,Atlantic Coast,38.252664700000004,-85.7584557,37.4315734,-78.65689420000002
+9,Charlotte,39,,North Texas,38,,Conference USA,Conference USA,35.2270869,-80.8431267,33.207488,-97.1525862
+9,Middle Tennessee,50,,Florida International,17,,Conference USA,Conference USA,35.8486105,-86.3648813,25.756127499999998,-80.3768786
+9,Oklahoma State,34,,Iowa State,27,23.0,Big 12,Big 12,36.1270236,-97.0737222,42.0266187,-93.64646540000001
+9,Penn State,28,6.0,Michigan State,7,,Big Ten,Big Ten,40.7982133,-77.85990840000002,42.701848,-84.4821719
+9,LSU,23,2.0,Auburn,20,9.0,Southeastern,Southeastern,30.413257899999998,-91.1800023,32.6098566,-85.48078249999998
+9,TCU,37,,Texas,27,15.0,Big 12,Big 12,32.7095936,-97.36356020000001,31.968598800000002,-99.9018131
+9,Toledo,37,,Eastern Michigan,34,,Mid-American,Mid-American,41.6528052,-83.53786740000002,42.2506803,-83.624089
+9,Buffalo,43,,Central Michigan,20,,Mid-American,Mid-American,42.88644679999999,-78.8783689,43.5819086,-84.77563640000002
+9,Northern Illinois,49,,Akron,0,,Mid-American,Mid-American,41.934233,-88.774069,41.08144470000001,-81.51900529999998
+9,Miami (OH),23,,Kent State,16,,Mid-American,Mid-American,39.5105334,-84.73087679999998,41.145559399999996,-81.33928829999998
+9,Florida State,35,,Syracuse,17,,Atlantic Coast,Atlantic Coast,30.4418778,-84.29848890000002,43.0481221,-76.14742439999998
+9,Stanford,41,,Arizona,31,,Pac-12,Pac-12,37.4274745,-122.169719,34.048928100000005,-111.0937311
+9,South Florida,45,,East Carolina,20,,American Athletic Conference,American Athletic Conference,27.664827399999997,-81.5157535,35.6055108,-77.3645653
+9,North Carolina,20,,Duke,17,,Atlantic Coast,Atlantic Coast,35.75957310000001,-79.01929969999998,36.0014258,-78.9382286
+9,Tennessee,41,,South Carolina,21,,Southeastern,Southeastern,35.517491299999996,-86.5804473,33.836081,-81.1637245
+9,Hawaii,45,,New Mexico,31,,Mountain West,Mountain West,19.8967662,-155.58278180000005,34.5199402,-105.87009009999998
+9,Georgia State,52,,Troy,33,,Sun Belt,Sun Belt,33.753068,-84.38528190000002,42.6064095,-83.1497751
+9,UCF,63,,Temple,21,,American Athletic Conference,American Athletic Conference,28.602427399999996,-81.2000599,37.0421218,-95.6273972
+9,Kansas,37,,Texas Tech,34,,Big 12,Big 12,39.011902,-98.4842465,33.584259100000004,-101.8782822
+9,Arkansas State,38,,Texas State,14,,Sun Belt,Sun Belt,35.20105,-91.83183340000001,29.888410999999998,-97.938351
+9,Memphis,42,,Tulsa,41,,American Athletic Conference,American Athletic Conference,35.1495343,-90.0489801,36.1539816,-95.992775
+9,Alabama,48,1.0,Arkansas,7,,Southeastern,Southeastern,32.3182314,-86.902298,35.20105,-91.83183340000001
+9,Kentucky,29,,Missouri,7,,Southeastern,Southeastern,37.83933320000001,-84.2700179,37.9642529,-91.83183340000001
+9,UCLA,42,,Arizona State,32,24.0,Pac-12,Pac-12,34.068921,-118.4451811,34.048928100000005,-111.0937311
+9,Colorado State,41,,Fresno State,31,,Mountain West,Mountain West,39.55005070000001,-105.78206740000002,36.8124451,-119.7457805
+9,Michigan,45,19.0,Notre Dame,14,8.0,Big Ten,Independents(FBS),44.3148443,-85.60236429999998,41.7055716,-86.2353388
+9,Clemson,59,4.0,Boston College,7,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,42.3355488,-71.16849450000002
+9,Louisiana Tech,42,,UTEP,21,,Conference USA,Conference USA,32.5282644,-92.6499298,31.7709368,-106.50464050000001
+9,Utah,35,12.0,California,0,,Pac-12,Pac-12,39.32098010000001,-111.0937311,36.778261,-119.4179324
+9,Air Force,31,,Utah State,7,,Mountain West,Mountain West,37.0955676,-94.4778033,41.745160999999996,-111.8097425
+9,Oregon,37,11.0,Washington State,35,,Pac-12,Pac-12,43.8041334,-120.55420120000001,47.751074100000004,-120.7401385
+9,San Diego State,20,,UNLV,17,,Mountain West,Mountain West,32.77572170000001,-117.0718893,36.1085197,-115.1431709
+10,Baylor,17,12.0,West Virginia,14,,Big 12,Big 12,31.5497007,-97.1143046,38.59762620000001,-80.4549026
+10,Georgia Southern,24,,Appalachian State,21,20.0,Sun Belt,Sun Belt,32.42054890000001,-81.78653469999998,36.2134842,-81.6841448
+10,Navy,56,,Connecticut,10,,American Athletic Conference,American Athletic Conference,37.22462279999999,-95.70705240000001,41.60322070000001,-73.087749
+10,Buffalo,43,,Eastern Michigan,14,,Mid-American,Mid-American,42.88644679999999,-78.8783689,42.2506803,-83.624089
+10,Central Michigan,48,,Northern Illinois,10,,Mid-American,Mid-American,43.5819086,-84.77563640000002,41.934233,-88.774069
+10,UCF,44,,Houston,29,,American Athletic Conference,American Athletic Conference,28.602427399999996,-81.2000599,29.7604267,-95.36980279999999
+10,Florida International,24,,Old Dominion,17,,Conference USA,Conference USA,25.756127499999998,-80.3768786,37.370863299999996,-95.26379140000002
+10,Michigan,38,14.0,Maryland,7,,Big Ten,Big Ten,44.3148443,-85.60236429999998,39.0457549,-76.64127119999998
+10,Texas A&M,45,,UTSA,14,,Southeastern,Conference USA,30.6090918,-96.33371240000001,29.5829744,-98.6197293
+10,Boston College,58,,Syracuse,27,,Atlantic Coast,Atlantic Coast,42.3355488,-71.16849450000002,43.0481221,-76.14742439999998
+10,Purdue,31,,Nebraska,27,,Big Ten,Big Ten,40.4237054,-86.92119459999998,41.4925374,-99.9018131
+10,Wake Forest,44,23.0,North Carolina State,10,,Atlantic Coast,Atlantic Coast,36.1340985,-80.2778951,35.7846633,-78.6820946
+10,Liberty,63,,Massachusetts,21,,Independents(FBS),Independents(FBS),37.1556278,-95.5947005,42.4072107,-71.3824374
+10,Bowling Green,35,,Akron,6,,Mid-American,Mid-American,41.3797788,-83.6300826,41.08144470000001,-81.51900529999998
+10,Notre Dame,21,16.0,Virginia Tech,20,,Independents(FBS),Atlantic Coast,41.7055716,-86.2353388,37.22838429999999,-80.42341669999998
+10,Coastal Carolina,36,,Troy,35,,Sun Belt,Sun Belt,33.7965964,-79.01336119999998,42.6064095,-83.1497751
+10,Charlotte,34,,Middle Tennessee,20,,Conference USA,Conference USA,35.2270869,-80.8431267,35.8486105,-86.3648813
+10,North Texas,52,,UTEP,26,,Conference USA,Conference USA,33.207488,-97.1525862,31.7709368,-106.50464050000001
+10,Georgia,24,8.0,Florida,17,6.0,Southeastern,Southeastern,32.1656221,-82.9000751,27.664827399999997,-81.5157535
+10,Colorado State,37,,UNLV,17,,Mountain West,Mountain West,39.55005070000001,-105.78206740000002,36.1085197,-115.1431709
+10,Arkansas State,48,,Louisiana-Monroe,41,,Sun Belt,Sun Belt,35.20105,-91.83183340000001,32.528282,-92.073415
+10,Miami (FL),27,,Florida State,10,,Atlantic Coast,Atlantic Coast,25.7616798,-80.1917902,30.4418778,-84.29848890000002
+10,Kansas State,38,22.0,Kansas,10,,Big 12,Big 12,39.1974437,-96.58472490000001,39.011902,-98.4842465
+10,Marshall,20,,Rice,7,,Conference USA,Conference USA,36.056901,-96.005218,29.7173941,-95.4018312
+10,Oklahoma State,34,,TCU,27,,Big 12,Big 12,36.1270236,-97.0737222,32.7095936,-97.36356020000001
+10,Illinois,38,,Rutgers,10,,Big Ten,Big Ten,40.6331249,-89.3985283,40.500818599999995,-74.44739910000001
+10,Air Force,17,,Army,13,,Mountain West,Independents(FBS),37.0955676,-94.4778033,37.1033072,-95.5678528
+10,Tulane,38,,Tulsa,26,,American Athletic Conference,American Athletic Conference,29.940728200000002,-90.1203167,36.1539816,-95.992775
+10,Clemson,59,4.0,Wofford,14,,Atlantic Coast,,34.673843700000006,-82.83686540000002,,
+10,Utah,33,9.0,Washington,28,,Pac-12,Pac-12,39.32098010000001,-111.0937311,47.751074100000004,-120.7401385
+10,Pittsburgh,20,,Georgia Tech,10,,Atlantic Coast,Atlantic Coast,40.4443533,-79.960835,33.7756178,-84.39628499999998
+10,Florida Atlantic,35,,Western Kentucky,24,,Conference USA,Conference USA,26.374987599999997,-80.10106329999998,36.9853543,-86.456138
+10,Mississippi State,54,,Arkansas,24,,Southeastern,Southeastern,33.455174199999995,-88.79437659999998,35.20105,-91.83183340000001
+10,Oregon State,56,,Arizona,38,,Pac-12,Pac-12,44.5637806,-123.2794443,34.048928100000005,-111.0937311
+10,Louisiana-Lafayette,31,,Texas State,3,,Sun Belt,Sun Belt,30.211440399999997,-92.02041209999999,29.888410999999998,-97.938351
+10,Indiana,34,,Northwestern,3,,Big Ten,Big Ten,40.2671941,-86.1349019,42.0564594,-87.67526699999998
+10,Tennessee,30,,UAB,7,,Southeastern,Conference USA,35.517491299999996,-86.5804473,33.5019893,-86.8064433
+10,Cincinnati,46,17.0,East Carolina,43,,American Athletic Conference,American Athletic Conference,39.103118200000004,-84.5120196,35.6055108,-77.3645653
+10,Auburn,20,11.0,Ole Miss,14,,Southeastern,Southeastern,32.6098566,-85.48078249999998,34.364732399999994,-89.538443
+10,Virginia,38,,North Carolina,31,,Atlantic Coast,Atlantic Coast,37.4315734,-78.65689420000002,35.75957310000001,-79.01929969999998
+10,South Carolina,24,,Vanderbilt,7,,Southeastern,Southeastern,33.836081,-81.1637245,36.1447034,-86.8026551
+10,Memphis,54,24.0,SMU,48,15.0,American Athletic Conference,American Athletic Conference,35.1495343,-90.0489801,32.8412178,-96.7845175
+10,Oregon,56,7.0,USC,24,,Pac-12,Pac-12,43.8041334,-120.55420120000001,34.0223519,-118.285117
+10,UCLA,31,,Colorado,14,,Pac-12,Pac-12,34.068921,-118.4451811,39.55005070000001,-105.78206740000002
+10,Brigham Young,42,,Utah State,14,,Independents(FBS),Mountain West,40.2518435,-111.6493156,41.745160999999996,-111.8097425
+10,Boise State,52,21.0,San Jose State,42,,Mountain West,Mountain West,43.60269520000001,-116.2014604,37.3351874,-121.8810715
+10,Nevada,21,,New Mexico,10,,Mountain West,Mountain West,38.8026097,-116.419389,34.5199402,-105.87009009999998
+10,Fresno State,41,,Hawaii,38,,Mountain West,Mountain West,36.8124451,-119.7457805,19.8967662,-155.58278180000005
+11,Toledo,35,,Kent State,33,,Mid-American,Mid-American,41.6528052,-83.53786740000002,41.145559399999996,-81.33928829999998
+11,Western Michigan,35,,Ball State,31,,Mid-American,Mid-American,42.2837336,-85.6102507,40.2041356,-85.4058996
+11,Miami (OH),24,,Ohio,21,,Mid-American,Mid-American,39.5105334,-84.73087679999998,40.4172871,-82.90712300000001
+11,Louisiana-Lafayette,48,,Coastal Carolina,7,,Sun Belt,Sun Belt,30.211440399999997,-92.02041209999999,33.7965964,-79.01336119999998
+11,Temple,17,,South Florida,7,,American Athletic Conference,American Athletic Conference,37.0421218,-95.6273972,27.664827399999997,-81.5157535
+11,Tulsa,34,,UCF,31,,American Athletic Conference,American Athletic Conference,36.1539816,-95.992775,28.602427399999996,-81.2000599
+11,Washington,19,,Oregon State,7,,Pac-12,Pac-12,47.751074100000004,-120.7401385,44.5637806,-123.2794443
+11,Minnesota,31,17.0,Penn State,26,4.0,Big Ten,Big Ten,46.729553,-94.6858998,40.7982133,-77.85990840000002
+11,Purdue,24,,Northwestern,22,,Big Ten,Big Ten,40.4237054,-86.92119459999998,42.0564594,-87.67526699999998
+11,Ohio State,73,1.0,Maryland,14,,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,39.0457549,-76.64127119999998
+11,Florida State,38,,Boston College,31,,Atlantic Coast,Atlantic Coast,30.4418778,-84.29848890000002,42.3355488,-71.16849450000002
+11,SMU,59,25.0,East Carolina,51,,American Athletic Conference,American Athletic Conference,32.8412178,-96.7845175,35.6055108,-77.3645653
+11,Florida,56,10.0,Vanderbilt,0,,Southeastern,Southeastern,27.664827399999997,-81.5157535,36.1447034,-86.8026551
+11,Army,63,,Massachusetts,7,,Independents(FBS),Independents(FBS),37.1033072,-95.5678528,42.4072107,-71.3824374
+11,Western Kentucky,45,,Arkansas,19,,Conference USA,Southeastern,36.9853543,-86.456138,35.20105,-91.83183340000001
+11,Texas Tech,38,,West Virginia,17,,Big 12,Big 12,33.584259100000004,-101.8782822,38.59762620000001,-80.4549026
+11,Baylor,29,12.0,TCU,23,,Big 12,Big 12,31.5497007,-97.1143046,32.7095936,-97.36356020000001
+11,Virginia,33,,Georgia Tech,28,,Atlantic Coast,Atlantic Coast,37.4315734,-78.65689420000002,33.7756178,-84.39628499999998
+11,UTSA,24,,Old Dominion,23,,Conference USA,Conference USA,29.5829744,-98.6197293,37.370863299999996,-95.26379140000002
+11,Charlotte,28,,UTEP,21,,Conference USA,Conference USA,35.2270869,-80.8431267,31.7709368,-106.50464050000001
+11,Texas State,30,,South Alabama,28,,Sun Belt,Sun Belt,29.888410999999998,-97.938351,30.6959406,-88.184236
+11,Colorado,16,,Stanford,13,,Pac-12,Pac-12,39.55005070000001,-105.78206740000002,37.4274745,-122.169719
+11,Miami (FL),52,,Louisville,27,,Atlantic Coast,Atlantic Coast,25.7616798,-80.1917902,38.252664700000004,-85.7584557
+11,Cincinnati,48,20.0,Connecticut,3,,American Athletic Conference,American Athletic Conference,39.103118200000004,-84.5120196,41.60322070000001,-73.087749
+11,Virginia Tech,36,,Wake Forest,17,19.0,Atlantic Coast,Atlantic Coast,37.22838429999999,-80.42341669999998,36.1340985,-80.2778951
+11,Troy,49,,Georgia Southern,28,,Sun Belt,Sun Belt,42.6064095,-83.1497751,32.42054890000001,-81.78653469999998
+11,Southern Miss,37,,UAB,2,,Conference USA,Conference USA,31.330011499999998,-89.3340423,33.5019893,-86.8064433
+11,Texas,27,,Kansas State,24,16.0,Big 12,Big 12,31.968598800000002,-99.9018131,39.1974437,-96.58472490000001
+11,Illinois,37,,Michigan State,34,,Big Ten,Big Ten,40.6331249,-89.3985283,42.701848,-84.4821719
+11,LSU,46,2.0,Alabama,41,3.0,Southeastern,Southeastern,30.413257899999998,-91.1800023,32.3182314,-86.902298
+11,USC,31,,Arizona State,26,,Pac-12,Pac-12,34.0223519,-118.285117,34.048928100000005,-111.0937311
+11,Louisiana Tech,52,,North Texas,17,,Conference USA,Conference USA,32.5282644,-92.6499298,33.207488,-97.1525862
+11,Ole Miss,41,,New Mexico State,3,,Southeastern,Independents(FBS),34.364732399999994,-89.538443,32.2787745,-106.7479059
+11,Wisconsin,24,13.0,Iowa,22,18.0,Big Ten,Big Ten,43.78443970000001,-88.7878678,41.8780025,-93.097702
+11,Louisiana-Monroe,45,,Georgia State,31,,Sun Belt,Sun Belt,32.528282,-92.073415,33.753068,-84.38528190000002
+11,Florida Atlantic,37,,Florida International,7,,Conference USA,Conference USA,26.374987599999997,-80.10106329999998,25.756127499999998,-80.3768786
+11,Utah State,37,,Fresno State,35,,Mountain West,Mountain West,41.745160999999996,-111.8097425,36.8124451,-119.7457805
+11,California,33,,Washington State,20,,Pac-12,Pac-12,36.778261,-119.4179324,47.751074100000004,-120.7401385
+11,Georgia,27,6.0,Missouri,0,,Southeastern,Southeastern,32.1656221,-82.9000751,37.9642529,-91.83183340000001
+11,Appalachian State,20,,South Carolina,15,,Sun Belt,Southeastern,36.2134842,-81.6841448,33.836081,-81.1637245
+11,Clemson,55,5.0,North Carolina State,10,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,35.7846633,-78.6820946
+11,Notre Dame,38,15.0,Duke,7,,Independents(FBS),Atlantic Coast,41.7055716,-86.2353388,36.0014258,-78.9382286
+11,Tennessee,17,,Kentucky,13,,Southeastern,Southeastern,35.517491299999996,-86.5804473,37.83933320000001,-84.2700179
+11,Brigham Young,31,,Liberty,24,,Independents(FBS),Independents(FBS),40.2518435,-111.6493156,37.1556278,-95.5947005
+11,Oklahoma,42,9.0,Iowa State,41,,Big 12,Big 12,35.007751899999995,-97.092877,42.0266187,-93.64646540000001
+11,Boise State,20,22.0,Wyoming,17,,Mountain West,Mountain West,43.60269520000001,-116.2014604,43.075967799999994,-107.29028390000002
+11,Nevada,17,,San Diego State,13,,Mountain West,Mountain West,38.8026097,-116.419389,32.77572170000001,-117.0718893
+11,Hawaii,42,,San Jose State,40,,Mountain West,Mountain West,19.8967662,-155.58278180000005,37.3351874,-121.8810715
+12,Eastern Michigan,42,,Akron,14,,Mid-American,Mid-American,42.2506803,-83.624089,41.08144470000001,-81.51900529999998
+12,Western Michigan,37,,Ohio,34,,Mid-American,Mid-American,42.2837336,-85.6102507,40.4172871,-82.90712300000001
+12,Miami (OH),44,,Bowling Green,3,,Mid-American,Mid-American,39.5105334,-84.73087679999998,41.3797788,-83.6300826
+12,Northern Illinois,31,,Toledo,28,,Mid-American,Mid-American,41.934233,-88.774069,41.6528052,-83.53786740000002
+12,Kent State,30,,Buffalo,27,,Mid-American,Mid-American,41.145559399999996,-81.33928829999998,42.88644679999999,-78.8783689
+12,Pittsburgh,34,,North Carolina,27,,Atlantic Coast,Atlantic Coast,40.4443533,-79.960835,35.75957310000001,-79.01929969999998
+12,Marshall,31,,Louisiana Tech,10,,Conference USA,Conference USA,36.056901,-96.005218,32.5282644,-92.6499298
+12,San Diego State,17,,Fresno State,7,,Mountain West,Mountain West,32.77572170000001,-117.0718893,36.8124451,-119.7457805
+12,Alabama,38,5.0,Mississippi State,7,,Southeastern,Southeastern,32.3182314,-86.902298,33.455174199999995,-88.79437659999998
+12,Oklahoma State,31,22.0,Kansas,13,,Big 12,Big 12,36.1270236,-97.0737222,39.011902,-98.4842465
+12,Temple,29,,Tulane,21,,American Athletic Conference,American Athletic Conference,37.0421218,-95.6273972,29.940728200000002,-90.1203167
+12,Michigan,44,15.0,Michigan State,10,,Big Ten,Big Ten,44.3148443,-85.60236429999998,42.701848,-84.4821719
+12,TCU,33,,Texas Tech,31,,Big 12,Big 12,32.7095936,-97.36356020000001,33.584259100000004,-101.8782822
+12,Florida State,49,,Alabama State,12,,Atlantic Coast,,30.4418778,-84.29848890000002,,
+12,Penn State,34,9.0,Indiana,27,,Big Ten,Big Ten,40.7982133,-77.85990840000002,40.2671941,-86.1349019
+12,Northwestern,45,,Massachusetts,6,,Big Ten,Independents(FBS),42.0564594,-87.67526699999998,42.4072107,-71.3824374
+12,Army,47,,VMI,6,,Independents(FBS),,37.1033072,-95.5678528,,
+12,Wisconsin,37,14.0,Nebraska,21,,Big Ten,Big Ten,43.78443970000001,-88.7878678,41.4925374,-99.9018131
+12,Florida,23,11.0,Missouri,6,,Southeastern,Southeastern,27.664827399999997,-81.5157535,37.9642529,-91.83183340000001
+12,UAB,37,,UTEP,10,,Conference USA,Conference USA,33.5019893,-86.8064433,31.7709368,-106.50464050000001
+12,Notre Dame,52,16.0,Navy,20,23.0,Independents(FBS),American Athletic Conference,41.7055716,-86.2353388,37.22462279999999,-95.70705240000001
+12,Arkansas State,28,,Coastal Carolina,27,,Sun Belt,Sun Belt,35.20105,-91.83183340000001,33.7965964,-79.01336119999998
+12,Troy,63,,Texas State,27,,Sun Belt,Sun Belt,42.6064095,-83.1497751,29.888410999999998,-97.938351
+12,Georgia Southern,51,,Louisiana-Monroe,29,,Sun Belt,Sun Belt,32.42054890000001,-81.78653469999998,32.528282,-92.073415
+12,Brigham Young,42,,Idaho State,10,,Independents(FBS),,40.2518435,-111.6493156,,
+12,Central Michigan,45,,Ball State,44,,Mid-American,Mid-American,43.5819086,-84.77563640000002,40.2041356,-85.4058996
+12,Virginia Tech,45,,Georgia Tech,0,,Atlantic Coast,Atlantic Coast,37.22838429999999,-80.42341669999998,33.7756178,-84.39628499999998
+12,Georgia,21,4.0,Auburn,14,12.0,Southeastern,Southeastern,32.1656221,-82.9000751,32.6098566,-85.48078249999998
+12,Kentucky,38,,Vanderbilt,14,,Southeastern,Southeastern,37.83933320000001,-84.2700179,36.1447034,-86.8026551
+12,Clemson,52,3.0,Wake Forest,3,,Atlantic Coast,Atlantic Coast,34.673843700000006,-82.83686540000002,36.1340985,-80.2778951
+12,Iowa State,23,,Texas,21,19.0,Big 12,Big 12,42.0266187,-93.64646540000001,31.968598800000002,-99.9018131
+12,Memphis,45,18.0,Houston,27,,American Athletic Conference,American Athletic Conference,35.1495343,-90.0489801,29.7604267,-95.36980279999999
+12,Ohio State,56,2.0,Rutgers,21,,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,40.500818599999995,-74.44739910000001
+12,West Virginia,24,,Kansas State,20,24.0,Big 12,Big 12,38.59762620000001,-80.4549026,39.1974437,-96.58472490000001
+12,Utah State,26,,Wyoming,21,,Mountain West,Mountain West,41.745160999999996,-111.8097425,43.075967799999994,-107.29028390000002
+12,Hawaii,21,,UNLV,7,,Mountain West,Mountain West,19.8967662,-155.58278180000005,36.1085197,-115.1431709
+12,New Mexico State,41,,UIW,28,,Independents(FBS),,32.2787745,-106.7479059,,
+12,Iowa,23,20.0,Minnesota,19,8.0,Big Ten,Big Ten,41.8780025,-93.097702,46.729553,-94.6858998
+12,Syracuse,49,,Duke,6,,Atlantic Coast,Atlantic Coast,43.0481221,-76.14742439999998,36.0014258,-78.9382286
+12,Rice,31,,Middle Tennessee,28,,Conference USA,Conference USA,29.7173941,-95.4018312,35.8486105,-86.3648813
+12,Washington State,49,,Stanford,22,,Pac-12,Pac-12,47.751074100000004,-120.7401385,37.4274745,-122.169719
+12,Louisiana-Lafayette,37,,South Alabama,27,,Sun Belt,Sun Belt,30.211440399999997,-92.02041209999999,30.6959406,-88.184236
+12,Southern Miss,36,,UTSA,17,,Conference USA,Conference USA,31.330011499999998,-89.3340423,29.5829744,-98.6197293
+12,Cincinnati,20,17.0,South Florida,17,,American Athletic Conference,American Athletic Conference,39.103118200000004,-84.5120196,27.664827399999997,-81.5157535
+12,Air Force,38,,Colorado State,21,,Mountain West,Mountain West,37.0955676,-94.4778033,39.55005070000001,-105.78206740000002
+12,LSU,58,1.0,Ole Miss,37,,Southeastern,Southeastern,30.413257899999998,-91.1800023,34.364732399999994,-89.538443
+12,Appalachian State,56,25.0,Georgia State,27,,Sun Belt,Sun Belt,36.2134842,-81.6841448,33.753068,-84.38528190000002
+12,Oklahoma,34,10.0,Baylor,31,13.0,Big 12,Big 12,35.007751899999995,-97.092877,31.5497007,-97.1143046
+12,Louisville,34,,North Carolina State,20,,Atlantic Coast,Atlantic Coast,38.252664700000004,-85.7584557,35.7846633,-78.6820946
+12,Texas A&M,30,,South Carolina,6,,Southeastern,Southeastern,30.6090918,-96.33371240000001,33.836081,-81.1637245
+12,Oregon State,35,,Arizona State,34,,Pac-12,Pac-12,44.5637806,-123.2794443,34.048928100000005,-111.0937311
+12,Utah,49,7.0,UCLA,3,,Pac-12,Pac-12,39.32098010000001,-111.0937311,34.068921,-118.4451811
+12,Boise State,42,21.0,New Mexico,9,,Mountain West,Mountain West,43.60269520000001,-116.2014604,34.5199402,-105.87009009999998
+12,Oregon,34,6.0,Arizona,6,,Pac-12,Pac-12,43.8041334,-120.55420120000001,34.048928100000005,-111.0937311
+12,USC,41,,California,17,,Pac-12,Pac-12,34.0223519,-118.285117,36.778261,-119.4179324
+13,Ohio,66,,Bowling Green,24,,Mid-American,Mid-American,40.4172871,-82.90712300000001,41.3797788,-83.6300826
+13,Eastern Michigan,45,,Northern Illinois,17,,Mid-American,Mid-American,42.2506803,-83.624089,41.934233,-88.774069
+13,Buffalo,49,,Toledo,30,,Mid-American,Mid-American,42.88644679999999,-78.8783689,41.6528052,-83.53786740000002
+13,Miami (OH),20,,Akron,17,,Mid-American,Mid-American,39.5105334,-84.73087679999998,41.08144470000001,-81.51900529999998
+13,Georgia Tech,28,,North Carolina State,26,,Atlantic Coast,Atlantic Coast,33.7756178,-84.39628499999998,35.7846633,-78.6820946
+13,Wyoming,17,,Colorado State,7,,Mountain West,Mountain West,43.075967799999994,-107.29028390000002,39.55005070000001,-105.78206740000002
+13,Ohio State,28,2.0,Penn State,17,8.0,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,40.7982133,-77.85990840000002
+13,East Carolina,31,,Connecticut,24,,American Athletic Conference,American Athletic Conference,35.6055108,-77.3645653,41.60322070000001,-73.087749
+13,Minnesota,38,10.0,Northwestern,22,,Big Ten,Big Ten,46.729553,-94.6858998,42.0564594,-87.67526699999998
+13,Auburn,52,15.0,Samford,0,,Southeastern,,32.6098566,-85.48078249999998,,
+13,Iowa,19,17.0,Illinois,10,,Big Ten,Big Ten,41.8780025,-93.097702,40.6331249,-89.3985283
+13,Michigan State,27,,Rutgers,0,,Big Ten,Big Ten,42.701848,-84.4821719,40.500818599999995,-74.44739910000001
+13,Iowa State,41,22.0,Kansas,31,,Big 12,Big 12,42.0266187,-93.64646540000001,39.011902,-98.4842465
+13,UCF,34,,Tulane,31,,American Athletic Conference,American Athletic Conference,28.602427399999996,-81.2000599,29.940728200000002,-90.1203167
+13,Brigham Young,56,,Massachusetts,24,,Independents(FBS),Independents(FBS),40.2518435,-111.6493156,42.4072107,-71.3824374
+13,Oklahoma State,20,21.0,West Virginia,13,,Big 12,Big 12,36.1270236,-97.0737222,38.59762620000001,-80.4549026
+13,Alabama,66,5.0,Western Caro.,3,,Southeastern,,32.3182314,-86.902298,,
+13,Kent State,41,,Ball State,38,,Mid-American,Mid-American,41.145559399999996,-81.33928829999998,40.2041356,-85.4058996
+13,Virginia,55,,Liberty,27,,Atlantic Coast,Independents(FBS),37.4315734,-78.65689420000002,37.1556278,-95.5947005
+13,Air Force,44,,New Mexico,22,,Mountain West,Mountain West,37.0955676,-94.4778033,34.5199402,-105.87009009999998
+13,Georgia State,28,,South Alabama,15,,Sun Belt,Sun Belt,33.753068,-84.38528190000002,30.6959406,-88.184236
+13,Notre Dame,40,16.0,Boston College,7,,Independents(FBS),Atlantic Coast,41.7055716,-86.2353388,42.3355488,-71.16849450000002
+13,Appalachian State,35,24.0,Texas State,13,,Sun Belt,Sun Belt,36.2134842,-81.6841448,29.888410999999998,-97.938351
+13,Arkansas State,38,,Georgia Southern,33,,Sun Belt,Sun Belt,35.20105,-91.83183340000001,32.42054890000001,-81.78653469999998
+13,Kentucky,50,,UT Martin,7,,Southeastern,,37.83933320000001,-84.2700179,,
+13,UAB,20,,Louisiana Tech,14,,Conference USA,Conference USA,33.5019893,-86.8064433,32.5282644,-92.6499298
+13,Navy,35,,SMU,28,25.0,American Athletic Conference,American Athletic Conference,37.22462279999999,-95.70705240000001,32.8412178,-96.7845175
+13,Baylor,24,14.0,Texas,10,,Big 12,Big 12,31.5497007,-97.1143046,31.968598800000002,-99.9018131
+13,North Carolina,56,,Mercer,7,,Atlantic Coast,,35.75957310000001,-79.01929969999998,,
+13,Vanderbilt,38,,ETSU,0,,Southeastern,,36.1447034,-86.8026551,,
+13,Charlotte,24,,Marshall,13,,Conference USA,Conference USA,35.2270869,-80.8431267,36.056901,-96.005218
+13,Nebraska,54,,Maryland,7,,Big Ten,Big Ten,41.4925374,-99.9018131,39.0457549,-76.64127119999998
+13,Western Kentucky,28,,Southern Miss.,10,,Conference USA,,36.9853543,-86.456138,,
+13,Rice,20,,North Texas,14,,Conference USA,Conference USA,29.7173941,-95.4018312,33.207488,-97.1525862
+13,Michigan,39,13.0,Indiana,14,,Big Ten,Big Ten,44.3148443,-85.60236429999998,40.2671941,-86.1349019
+13,Virginia Tech,28,,Pittsburgh,0,,Atlantic Coast,Atlantic Coast,37.22838429999999,-80.42341669999998,40.4443533,-79.960835
+13,Georgia,19,4.0,Texas A&M,13,,Southeastern,Southeastern,32.1656221,-82.9000751,30.6090918,-96.33371240000001
+13,Southern California,52,23.0,UCLA,35,,,Pac-12,,,34.068921,-118.4451811
+13,Memphis,49,18.0,South Fla.,10,,American Athletic Conference,,35.1495343,-90.0489801,,
+13,Wisconsin,45,12.0,Purdue,24,,Big Ten,Big Ten,43.78443970000001,-88.7878678,40.4237054,-86.92119459999998
+13,UNLV,38,,San Jose State,35,,Mountain West,Mountain West,36.1085197,-115.1431709,37.3351874,-121.8810715
+13,California,24,,Stanford,20,,Pac-12,Pac-12,36.778261,-119.4179324,37.4274745,-122.169719
+13,Louisville,56,,Syracuse,34,,Atlantic Coast,Atlantic Coast,38.252664700000004,-85.7584557,43.0481221,-76.14742439999998
+13,New Mexico State,44,,UTEP,35,,Independents(FBS),Conference USA,32.2787745,-106.7479059,31.7709368,-106.50464050000001
+13,Middle Tennessee,38,,Old Dominion,17,,Conference USA,Conference USA,35.8486105,-86.3648813,37.370863299999996,-95.26379140000002
+13,Louisiana-Lafayette,53,,Troy,3,,Sun Belt,Sun Belt,30.211440399999997,-92.02041209999999,42.6064095,-83.1497751
+13,Louisiana-Monroe,45,,Coastal Carolina,42,,Sun Belt,Sun Belt,32.528282,-92.073415,33.7965964,-79.01336119999998
+13,Fla. Atlantic,40,,UTSA,26,,,Conference USA,,,29.5829744,-98.6197293
+13,Cincinnati,15,19.0,Temple,13,,American Athletic Conference,American Athletic Conference,39.103118200000004,-84.5120196,37.0421218,-95.6273972
+13,Florida International,30,,Miami (FL),24,,Conference USA,Atlantic Coast,25.756127499999998,-80.3768786,25.7616798,-80.1917902
+13,LSU,56,1.0,Arkansas,20,,Southeastern,Southeastern,30.413257899999998,-91.1800023,35.20105,-91.83183340000001
+13,Kansas State,30,,Texas Tech,27,,Big 12,Big 12,39.1974437,-96.58472490000001,33.584259100000004,-101.8782822
+13,Houston,24,,Tulsa,14,,American Athletic Conference,American Athletic Conference,29.7604267,-95.36980279999999,36.1539816,-95.992775
+13,Tennessee,24,,Missouri,20,,Southeastern,Southeastern,35.517491299999996,-86.5804473,37.9642529,-91.83183340000001
+13,Mississippi State,45,,Abilene Christian,7,,Southeastern,,33.455174199999995,-88.79437659999998,,
+13,Wake Forest,39,,Duke,27,,Atlantic Coast,Atlantic Coast,36.1340985,-80.2778951,36.0014258,-78.9382286
+13,Arizona State,31,,Oregon,28,6.0,Pac-12,Pac-12,34.048928100000005,-111.0937311,43.8041334,-120.55420120000001
+13,Oklahoma,28,9.0,TCU,24,,Big 12,Big 12,35.007751899999995,-97.092877,32.7095936,-97.36356020000001
+13,Washington State,54,,Oregon State,53,,Pac-12,Pac-12,47.751074100000004,-120.7401385,44.5637806,-123.2794443
+13,Colorado,20,,Washington,14,,Pac-12,Pac-12,39.55005070000001,-105.78206740000002,47.751074100000004,-120.7401385
+13,Utah,35,7.0,Arizona,7,,Pac-12,Pac-12,39.32098010000001,-111.0937311,34.048928100000005,-111.0937311
+13,Nevada,35,,Fresno State,28,,Mountain West,Mountain West,38.8026097,-116.419389,36.8124451,-119.7457805
+13,Boise State,56,20.0,Utah State,21,,Mountain West,Mountain West,43.60269520000001,-116.2014604,41.745160999999996,-111.8097425
+13,Hawaii,14,,San Diego State,11,,Mountain West,Mountain West,19.8967662,-155.58278180000005,32.77572170000001,-117.0718893
+14,Ohio,52,,Akron,3,,Mid-American,Mid-American,40.4172871,-82.90712300000001,41.08144470000001,-81.51900529999998
+14,Northern Illinois,17,,Western Michigan,14,,Mid-American,Mid-American,41.934233,-88.774069,42.2837336,-85.6102507
+14,Mississippi State,21,,Ole Miss,20,,Southeastern,Southeastern,33.455174199999995,-88.79437659999998,34.364732399999994,-89.538443
+14,Central Michigan,49,,Toledo,7,,Mid-American,Mid-American,43.5819086,-84.77563640000002,41.6528052,-83.53786740000002
+14,Virginia,39,,Virginia Tech,30,24.0,Atlantic Coast,Atlantic Coast,37.4315734,-78.65689420000002,37.22838429999999,-80.42341669999998
+14,Texas,49,,Texas Tech,24,,Big 12,Big 12,31.968598800000002,-99.9018131,33.584259100000004,-101.8782822
+14,Ball State,41,,Miami (OH),27,,Mid-American,Mid-American,40.2041356,-85.4058996,39.5105334,-84.73087679999998
+14,Buffalo,49,,Bowling Green,7,,Mid-American,Mid-American,42.88644679999999,-78.8783689,41.3797788,-83.6300826
+14,Kent State,34,,Eastern Michigan,26,,Mid-American,Mid-American,41.145559399999996,-81.33928829999998,42.2506803,-83.624089
+14,Missouri,24,,Arkansas,14,,Southeastern,Southeastern,37.9642529,-91.83183340000001,35.20105,-91.83183340000001
+14,Iowa,27,17.0,Nebraska,24,,Big Ten,Big Ten,41.8780025,-93.097702,41.4925374,-99.9018131
+14,Boise State,31,20.0,Colorado State,24,,Mountain West,Mountain West,43.60269520000001,-116.2014604,39.55005070000001,-105.78206740000002
+14,Memphis,34,18.0,Cincinnati,24,19.0,American Athletic Conference,American Athletic Conference,35.1495343,-90.0489801,39.103118200000004,-84.5120196
+14,Washington,31,,Washington State,13,,Pac-12,Pac-12,47.751074100000004,-120.7401385,47.751074100000004,-120.7401385
+14,West Virginia,20,,TCU,17,,Big 12,Big 12,38.59762620000001,-80.4549026,32.7095936,-97.36356020000001
+14,South Alabama,34,,Arkansas State,30,,Sun Belt,Sun Belt,30.6959406,-88.184236,35.20105,-91.83183340000001
+14,Appalachian State,48,25.0,Troy,13,,Sun Belt,Sun Belt,36.2134842,-81.6841448,42.6064095,-83.1497751
+14,UCF,34,,South Fla.,7,,American Athletic Conference,,28.602427399999996,-81.2000599,,
+14,Kentucky,45,,Louisville,13,,Southeastern,Atlantic Coast,37.83933320000001,-84.2700179,38.252664700000004,-85.7584557
+14,Indiana,44,,Purdue,41,,Big Ten,Big Ten,40.2671941,-86.1349019,40.4237054,-86.92119459999998
+14,Tulsa,49,,East Carolina,24,,American Athletic Conference,American Athletic Conference,36.1539816,-95.992775,35.6055108,-77.3645653
+14,Marshall,30,,Florida International,27,,Conference USA,Conference USA,36.056901,-96.005218,25.756127499999998,-80.3768786
+14,Clemson,38,3.0,South Carolina,3,,Atlantic Coast,Southeastern,34.673843700000006,-82.83686540000002,33.836081,-81.1637245
+14,Ohio State,56,1.0,Michigan,27,13.0,Big Ten,Big Ten,40.006836299999996,-83.03062220000002,44.3148443,-85.60236429999998
+14,Northwestern,29,,Illinois,10,,Big Ten,Big Ten,42.0564594,-87.67526699999998,40.6331249,-89.3985283
+14,Georgia,52,4.0,Georgia Tech,7,,Southeastern,Atlantic Coast,32.1656221,-82.9000751,33.7756178,-84.39628499999998
+14,Coastal Carolina,24,,Texas State,21,,Sun Belt,Sun Belt,33.7965964,-79.01336119999998,29.888410999999998,-97.938351
+14,Syracuse,39,,Wake Forest,30,,Atlantic Coast,Atlantic Coast,43.0481221,-76.14742439999998,36.1340985,-80.2778951
+14,Liberty,49,,New Mexico State,28,,Independents(FBS),Independents(FBS),37.1556278,-95.5947005,32.2787745,-106.7479059
+14,Air Force,20,,Wyoming,6,,Mountain West,Mountain West,37.0955676,-94.4778033,43.075967799999994,-107.29028390000002
+14,Charlotte,38,,Old Dominion,22,,Conference USA,Conference USA,35.2270869,-80.8431267,37.370863299999996,-95.26379140000002
+14,Western Kentucky,31,,Middle Tennessee,26,,Conference USA,Conference USA,36.9853543,-86.456138,35.8486105,-86.3648813
+14,Rice,30,,UTEP,16,,Conference USA,Conference USA,29.7173941,-95.4018312,31.7709368,-106.50464050000001
+14,UNLV,33,,Nevada,30,,Mountain West,Mountain West,36.1085197,-115.1431709,38.8026097,-116.419389
+14,Temple,49,,Connecticut,17,,American Athletic Conference,American Athletic Conference,37.0421218,-95.6273972,41.60322070000001,-73.087749
+14,Michigan State,19,,Maryland,16,,Big Ten,Big Ten,42.701848,-84.4821719,39.0457549,-76.64127119999998
+14,Boston College,26,,Pittsburgh,19,,Atlantic Coast,Atlantic Coast,42.3355488,-71.16849450000002,40.4443533,-79.960835
+14,Louisiana Tech,41,,UTSA,27,,Conference USA,Conference USA,32.5282644,-92.6499298,29.5829744,-98.6197293
+14,Penn State,27,10.0,Rutgers,6,,Big Ten,Big Ten,40.7982133,-77.85990840000002,40.500818599999995,-74.44739910000001
+14,Duke,27,,Miami (FL),17,,Atlantic Coast,Atlantic Coast,36.0014258,-78.9382286,25.7616798,-80.1917902
+14,Baylor,61,9.0,Kansas,6,,Big 12,Big 12,31.5497007,-97.1143046,39.011902,-98.4842465
+14,Auburn,48,15.0,Alabama,45,5.0,Southeastern,Southeastern,32.6098566,-85.48078249999998,32.3182314,-86.902298
+14,Fla. Atlantic,34,,Southern Miss.,17,,,,,,,
+14,Wisconsin,38,12.0,Minnesota,17,8.0,Big Ten,Big Ten,43.78443970000001,-88.7878678,46.729553,-94.6858998
+14,Tennessee,28,,Vanderbilt,10,,Southeastern,Southeastern,35.517491299999996,-86.5804473,36.1447034,-86.8026551
+14,Oregon,24,14.0,Oregon State,10,,Pac-12,Pac-12,43.8041334,-120.55420120000001,44.5637806,-123.2794443
+14,Notre Dame,45,16.0,Stanford,24,,Independents(FBS),Pac-12,41.7055716,-86.2353388,37.4274745,-122.169719
+14,Utah State,38,,New Mexico,25,,Mountain West,Mountain West,41.745160999999996,-111.8097425,34.5199402,-105.87009009999998
+14,UAB,26,,North Texas,21,,Conference USA,Conference USA,33.5019893,-86.8064433,33.207488,-97.1525862
+14,SMU,37,,Tulane,20,,American Athletic Conference,American Athletic Conference,32.8412178,-96.7845175,29.940728200000002,-90.1203167
+14,Georgia Southern,38,,Georgia State,10,,Sun Belt,Sun Belt,32.42054890000001,-81.78653469999998,33.753068,-84.38528190000002
+14,LSU,50,2.0,Texas A&M,7,,Southeastern,Southeastern,30.413257899999998,-91.1800023,30.6090918,-96.33371240000001
+14,North Carolina,41,,North Carolina State,10,,Atlantic Coast,Atlantic Coast,35.75957310000001,-79.01929969999998,35.7846633,-78.6820946
+14,Kansas State,27,,Iowa State,17,23.0,Big 12,Big 12,39.1974437,-96.58472490000001,42.0266187,-93.64646540000001
+14,Navy,56,,Houston,41,,American Athletic Conference,American Athletic Conference,37.22462279999999,-95.70705240000001,29.7604267,-95.36980279999999
+14,Florida,40,11.0,Florida State,17,,Southeastern,Atlantic Coast,27.664827399999997,-81.5157535,30.4418778,-84.29848890000002
+14,Utah,45,6.0,Colorado,15,,Pac-12,Pac-12,39.32098010000001,-111.0937311,39.55005070000001,-105.78206740000002
+14,Louisiana-Lafayette,31,,Louisiana-Monroe,30,,Sun Belt,Sun Belt,30.211440399999997,-92.02041209999999,32.528282,-92.073415
+14,Oklahoma,34,7.0,Oklahoma State,16,21.0,Big 12,Big 12,35.007751899999995,-97.092877,36.1270236,-97.0737222
+14,San Diego State,13,,Brigham Young,3,,Mountain West,Independents(FBS),32.77572170000001,-117.0718893,40.2518435,-111.6493156
+14,Arizona State,24,,Arizona,14,,Pac-12,Pac-12,34.048928100000005,-111.0937311,34.048928100000005,-111.0937311
+14,California,28,,UCLA,18,,Pac-12,Pac-12,36.778261,-119.4179324,34.068921,-118.4451811
+14,San Jose State,17,,Fresno State,16,,Mountain West,Mountain West,37.3351874,-121.8810715,36.8124451,-119.7457805
+14,Hawaii,52,,Army,31,,Mountain West,Independents(FBS),19.8967662,-155.58278180000005,37.1033072,-95.5678528
