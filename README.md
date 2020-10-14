@@ -13,3 +13,4 @@ After taking the <a href="https://github.com/sarinac/Udacity-Data-Analyst-Nanode
 |6      |Yelp in Culver City   |Jan 2020 |Used Yelp Fusion API + plotted locations                            |
 |7      |COVID-19              |Mar 2020 |Graphed infection rate by country                                   | 
 |8      |Avocado Prices        |Sep 2020 |Compared Hass Avocado prices and type                               | 
+|9      |Iris Species	       |Oct 2020 |Classified 3 iris species based on sepal and petal features         | 
