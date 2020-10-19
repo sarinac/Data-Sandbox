@@ -14,3 +14,4 @@ After taking the <a href="https://github.com/sarinac/Udacity-Data-Analyst-Nanode
 |7      |COVID-19              |Mar 2020 |Graphed infection rate by country                                   | 
 |8      |Avocado Prices        |Sep 2020 |Compared Hass Avocado prices and type                               | 
 |9      |Iris Species	       |Oct 2020 |Classified 3 iris species based on sepal and petal features         | 
+|10     |Titanic		       |Oct 2020 |Predicted survival outcomes of passengers aboard the Titanic        | 
